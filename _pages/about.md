@@ -114,7 +114,7 @@ redirect_from:
 [14][website](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300412)  Automatic evaluation of facial nerve paralysis by dual-path LSTM with deep differentiated network. Pengfei Xu, Fei Xie, Tongsheng Su, Zhaoxin Wan, Zhaoyong Zhou, Xiaoyu Xin, Ziyu Guan。Neurocomputing, Volume 388, 2020, Pages 70-77, ISSN 0925-2312（2020）  
 [15][website](https://ieeexplore.ieee.org/abstract/document/9103547/)  MobileAid: A Fast and Effective Cognitive Aid System on Mobile Devices. Xinyi Liu; Baoying Liu; Guoqing Liu; Feng Chen; Tianzhang Xing.(2020)  
 3 国内一级学报  
-[1]一种基于条件生成式对抗网络的文本类验证码识别方法[J].汤战勇,田超雄,叶贵鑫,李婧,王薇（通信作者），龚晓庆，陈晓江，房鼎益.计算机学报,2020.  
+[1]一种基于条件生成式对抗网络的文本类验证码识别方法[J].汤战勇,田超雄,叶贵鑫,李婧,王薇（通信作者），龚晓庆，__陈晓江__，房鼎益.计算机学报,2020.  
 [2]基于链路交点相对位置信息的轻量级覆盖空洞检测算法[J].韩雨涝,房鼎益 计算机应用,2020-09-10.  
 [3]联合无线充电与数据收集的移动充电装置多目标路径规划算法[J].韩雨涝,房鼎益,计算机应用,2020-01-06.  
   
@@ -145,10 +145,10 @@ redirect_from:
 [13] [website](https://ieeexplore.ieee.org/abstract/document/8906126/)  Leveraging WebAssembly for Numerical JavaScript Code Virtualization. 王帅, 叶贵鑫, 李梦,袁璐, 汤战勇, 王焕廷, 王薇 , 王夫蔚（通信作者）, 任杰, 房鼎益, 王峥。2019, 7: 182711-182724.（第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
 [14][website](https://ieeexplore.ieee.org/abstract/document/8732327/)  Exploiting Binary-level Code Virtualization to Protect Android Applications Against App Repackaging.何中凯, 叶贵鑫,袁璐, 汤战勇（通信作者）,王晓峰（通信作者），任杰，王薇,杨建峰, 房鼎益, 王峥。2019, 7: 115062-115074. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
 3 国内一级学报  
-[1]面向多重应用的高鲁棒被动式定位模型研究[J].陈晓江,陈丽丽,李博航,汤战勇,谢彬彬,王薇,王安文,房鼎益(通信作者).计算机学报,2019,42(02):173-184.  
-[2]VANET中流调度与路径选择联合优化的传输策略[J]. 强敏,陈晓江,尹小燕(通信作者),贾茹昭,徐丹,汤战勇,房鼎益.软件学报,2019,30(02):346-361.  
-[3]基于智能手机内置传感器的人体运动状态识别[J]. 殷晓玲,陈晓江,夏启寿,何娟(通信作者),张鹏艳,陈峰.通信学报,2019,40(03):157-169.  
-[4]一种跨APP组件间隐私泄露自动检测方法[J]. 李振,汤战勇（通信作者）,李政桥,王海,龚晓庆,陈峰,陈晓江,房鼎益.计算机研究与发展,2019,56(06):1252-1262. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
+[1]面向多重应用的高鲁棒被动式定位模型研究[J].__陈晓江__,陈丽丽,李博航,汤战勇,谢彬彬,王薇,王安文,房鼎益(通信作者).计算机学报,2019,42(02):173-184.  
+[2]VANET中流调度与路径选择联合优化的传输策略[J]. 强敏,__陈晓江__,尹小燕(通信作者),贾茹昭,徐丹,汤战勇,房鼎益.软件学报,2019,30(02):346-361.  
+[3]基于智能手机内置传感器的人体运动状态识别[J]. 殷晓玲,__陈晓江__,夏启寿,何娟(通信作者),张鹏艳,陈峰.通信学报,2019,40(03):157-169.  
+[4]一种跨APP组件间隐私泄露自动检测方法[J]. 李振,汤战勇（通信作者）,李政桥,王海,龚晓庆,陈峰,__陈晓江__,房鼎益.计算机研究与发展,2019,56(06):1252-1262. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
   
   
 2018  
@@ -179,9 +179,9 @@ redirect_from:
 [16][website](https://www.sciencedirect.com/science/article/pii/S1389128618301312)  Maximizing throughput for low duty-cycled sensor networks,Dan Xu, Wenli Jiao, Zhuang Yin, Junjie Huang, Yao Peng, __Xiaojiang Chen__, Dingyi Fang, Zhanyong Tang. Computer Networks,139:48-59,2018. (CN CCF B,中科院 SCI 3区)  （清华大学推荐B 类期刊  
 [17][website](https://www.sciencedirect.com/science/article/pii/S1389128618304857)  EasyGo: Low-cost and robust geographic opportunistic sensing routing in a strip topology wireless sensor network. Chen Liu, Dingyi Fang*, Yue Hu, Shensheng Tang, Dan Xu*,Wen Cui, __Xiaojiang Chen__, Baoying Liu, Guangquan Xu, Hao Chen. Computer Networks,143:191-205,2018. (CN CCF B,中科院 SCI 3区) （清华大学推荐B 类期刊）  
 [18][website](https://www.sciencedirect.com/science/article/pii/S1389128618309708)  Enabling robust and reliable transmission in Internet of Things with multiple gateways. Dan Xu, Wenli Jiao, Zhuang Yin, Bin Wu, Yao Peng, __Xiaojiang Chen__*, Feng Chen, Dingyi Fang. Computer Networks, 146:183-199 ,2018. (CN CCF B,中科院 SCI 3区) （清华大学推荐B 类期刊）  
-[19][website](https://ieeexplore.ieee.org/abstract/document/8107493/)  R&P: An Low-Cost Device-Free Activity Recognition for E-Health. 李荔垚、百瑞、谢彬彬、彭瑶*、王安文、王薇、姜博、梁健、陈晓江。IEEE ACCESS,6: 81-90, 2018.  
+[19][website](https://ieeexplore.ieee.org/abstract/document/8107493/)  R&P: An Low-Cost Device-Free Activity Recognition for E-Health. 李荔垚、百瑞、谢彬彬、彭瑶*、王安文、王薇、姜博、梁健、__陈晓江__。IEEE ACCESS,6: 81-90, 2018.  
 3 国内一级学报  
-[1]高鲁棒性低延迟的路由协议[J].兰轩宇,陈晓江(通信作者),徐丹,彭瑶(通信作者),房鼎益.软件学报,2018,29(12):3886-3903.  
+[1]高鲁棒性低延迟的路由协议[J].兰轩宇,__陈晓江(通信作者)__,徐丹,彭瑶(通信作者),房鼎益.软件学报,2018,29(12):3886-3903.  
   
   
 2017  
@@ -206,12 +206,12 @@ redirect_from:
 [10][website](https://link.springer.com/article/10.1007/s11390-017-1798-8)  A Reverse Auction Framework for Hybrid Access in Femtocell Network.Yanjiao Chen, Xiaoyan Yin*, Jin Zhang. Journal of Computer Science and Technology,32(6):1250-1264, 2017. (JCST CCF B, SCI 2区).（清华大学推荐B 类期刊）  
 [11][website](https://www.sciencedirect.com/science/article/pii/S1084804516303022)  Bandwidth Scheduling for Big Data Transfer Using Multiple Fixed Node-Disjoint Paths. Aiqin Hou, Chase Q. Wu*， Dingyi Fang, Yongqiang Wang, Meng Wang. Journal of Network and Computer Applications, 85:47-55,2017.  
 3 国内一级学报  
-[1]基于数据价值的无人机数据收集方法[J]. 徐丹,李伟,王安文,范浩楠,龚晓庆,陈晓江(通信作者),房鼎益(通信作者).软件学报,2017,28(12):3206-3222.  
-[2]一种基于RSSI的智能家居环境Evil-Twin攻击的检测方法[J]. 房鼎益,祁生德,汤战勇（通信作者）,陈晓江,顾元祥.计算机学报,2017,40(08):1764-1778.  
-[3]基于RFID的免携带设备手势识别关键技术研究[J].王旋,方河川,常俪琼,王举,陈晓江,房鼎益,彭瑶(通信作者),陈峰.计算机研究与发展,2017,54(12):2752-2760.  
+[1]基于数据价值的无人机数据收集方法[J]. 徐丹,李伟,王安文,范浩楠,龚晓庆,__陈晓江(通信作者)__,房鼎益(通信作者).软件学报,2017,28(12):3206-3222.  
+[2]一种基于RSSI的智能家居环境Evil-Twin攻击的检测方法[J]. 房鼎益,祁生德,汤战勇（通信作者）,__陈晓江__,顾元祥.计算机学报,2017,40(08):1764-1778.  
+[3]基于RFID的免携带设备手势识别关键技术研究[J].王旋,方河川,常俪琼,王举,__陈晓江__,房鼎益,彭瑶(通信作者),陈峰.计算机研究与发展,2017,54(12):2752-2760.  
 [4]一种利用无线信号的被动式多目标定位系统[J].邢天璋,谢彬彬,杨康,汤战勇,房鼎益.西安电子科技大学学报,2017-06-29.  
 [5]基于可执行代码的反污点分析方法研究[J].龚晓庆,周祥,汤战勇（通信作者）,房鼎益,彭瑶，陈峰.工程科学与技术,2017-01-20.  
-[6]一种抗语义攻击的虚拟化软件保护方法[J].房鼎益,张恒,汤战勇（通信作者）,陈晓江.工程科学与技术,2017,49(1):159-168.  
+[6]一种抗语义攻击的虚拟化软件保护方法[J].房鼎益,张恒,汤战勇（通信作者）,__陈晓江__.工程科学与技术,2017,49(1):159-168.  
 [7]基于攻击威胁监控的软件保护方法[J].汤战勇,李振,张聪,龚晓庆（通信作者）,房鼎益.计算机应用,2017,37(1):120-127.  
 [8]基于smali代码混淆的Android应用保护方法[J].刘方圆,孟宪佳（通信作者）,汤战勇,房鼎益,龚晓庆.山东大学学报(理学版),2017,52(3):44-50. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
   
@@ -226,12 +226,12 @@ redirect_from:
 2、相关代表期刊文章  
 [1][website](https://ieeexplore.ieee.org/abstract/document/7366598/)  SS Distribution-Based Passive Localization and Its Application in Sensor Networks. Liu chen ,faingdingyi,yangzhe,jianghongbo，XiaojiangChen*(通信作者).IEEE Transactions on Wireless Communications, 2016, 15(4):2883-2895. (TWC CCF B, SCI 2区). （清华大学推荐B类期刊）  
 [2][website](https://www.sciencedirect.com/science/article/pii/S0925231216306993)  Dynamic character grouping based on four consistency constraints in topographic maps. 许鹏飞，苗启广，刘如意等。（2016）  
-[3][website](https://www.sciencedirect.com/science/article/pii/S0925231216000059)  Graphic-based character grouping in topographic maps. 许鹏飞，苗启广，陈晓江等。（2016）  
+[3][website](https://www.sciencedirect.com/science/article/pii/S0925231216000059)  Graphic-based character grouping in topographic maps. 许鹏飞，苗启广，__陈晓江__等。（2016）  
 3、国内一级学报  
-[1]一种有效消除环境噪声的被动式目标定位方法[J]. 常俪琼,房鼎益,陈晓江(通信作者),王举,汤战勇,聂卫科,刘晨.计算机学报,2016,39(05):1051-1066.  
-[2]一种代码碎片化的Android应用程序防二次打包方法[J].樊如霞,房鼎益,汤战勇（通信作者）,陈晓江,刘方圆,李政桥.小型微型计算机系统,2016,37(9):1969-1974. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
+[1]一种有效消除环境噪声的被动式目标定位方法[J]. 常俪琼,房鼎益,__陈晓江(通信作者)__,王举,汤战勇,聂卫科,刘晨.计算机学报,2016,39(05):1051-1066.  
+[2]一种代码碎片化的Android应用程序防二次打包方法[J].樊如霞,房鼎益,汤战勇（通信作者）,__陈晓江__,刘方圆,李政桥.小型微型计算机系统,2016,37(9):1969-1974. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
 [3]一种基于混合深度置信模型的面部表情识别方法[J].杨雨浓,房鼎益,王洪.西南大学学报(自然科学版),2016-06-20.  
-[4]一种具有指令集随机化的代码虚拟化保护系统[J].汤战勇,李光辉,房鼎益,陈晓江.华中科技大学学报(自然科学版),2016,44(3):28-33.  
+[4]一种具有指令集随机化的代码虚拟化保护系统[J].汤战勇,李光辉,房鼎益,__陈晓江__.华中科技大学学报(自然科学版),2016,44(3):28-33.  
 [5]基于语义的二进制代码自动化反混淆方法[J].郭军,王蕾,汤战勇,房鼎益.华中科技大学学报(自然科学版),2016,44(3):55-59.  
-[6]基于进程级虚拟机的软件防篡改方法[J].汤战勇,郝朝辉,房鼎益,陈晓江.华中科技大学学报(自然科学版),2016,44(3):65-70.  
+[6]基于进程级虚拟机的软件防篡改方法[J].汤战勇,郝朝辉,房鼎益,__陈晓江__.华中科技大学学报(自然科学版),2016,44(3):65-70.  
 [7]基于Niederreiter密码的签密方案[J].韩益亮,李冲,房鼎益,杨晓元.四川大学学报(工程科学版),2016-02-29.  
