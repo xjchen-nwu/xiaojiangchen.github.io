@@ -226,7 +226,7 @@ redirect_from:
 2、相关代表期刊文章  
 [1][website](https://ieeexplore.ieee.org/abstract/document/7366598/)  SS Distribution-Based Passive Localization and Its Application in Sensor Networks. Liu chen ,faingdingyi,yangzhe,jianghongbo，XiaojiangChen*(通信作者).IEEE Transactions on Wireless Communications, 2016, 15(4):2883-2895. (TWC CCF B, SCI 2区). （清华大学推荐B类期刊）  
 [2][website](https://www.sciencedirect.com/science/article/pii/S0925231216306993)  Dynamic character grouping based on four consistency constraints in topographic maps. 许鹏飞，苗启广，刘如意等。（2016）  
-[3][website](https://www.sciencedirect.com/science/article/pii/S0925231216000059)  Graphic-based character grouping in topographic maps. 许鹏飞，苗启广，__陈晓江__等。（2016）  
+[3][website](https://www.sciencedirect.com/science/article/pii/S0925231216000059)  Graphic-based character grouping in topographic maps. 许鹏飞，苗启广, __陈晓江__ 等。（2016）  
 3、国内一级学报  
 [1][website](http://cjc.ict.ac.cn/online/onlinepaper/clq-2016428101732.pdf)  一种有效消除环境噪声的被动式目标定位方法[J]. 常俪琼,房鼎益,__陈晓江(通信作者)__,王举,汤战勇,聂卫科,刘晨.计算机学报,2016,39(05):1051-1066.  
 [2][website](http://www.cqvip.com/qk/95659x/201609/669842369.html)  一种代码碎片化的Android应用程序防二次打包方法[J].樊如霞,房鼎益,汤战勇（通信作者）,__陈晓江__,刘方圆,李政桥.小型微型计算机系统,2016,37(9):1969-1974. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
