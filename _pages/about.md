@@ -20,8 +20,8 @@ redirect_from:
 [3]  [website](https://ieeexplore.ieee.org/abstract/document/10283475/)  Eliminating design effort: A reconfigurable sensing framework for chipless, backscatter tags. Wenli Jiao, Ju Wang*（共同通信）, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang,  Xiaojiang Chen*（共同通信）. 2024 (TON CCF A).    
 [4]  [website](https://ieeexplore.ieee.org/abstract/document/10159382/)  WiAi-ID: Wi-Fi-Based Domain Adaptation for Appearance-independent Passive Person Identification. Ying Liang, Wenjie Wu, Haobo Li, Feng Han, Zhengqi Liu, Pengfei Xu*（通信作者）, Xiaoli Lian, Xiaojiang Chen. IEEE Internet of Things Journal.11(1):1012-1027, 2024.（SCI 一区）  
 [5][website](https://ieeexplore.ieee.org/abstract/document/10411052/)DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI.Ying Liang , Wenjie Wu , Haobo Li , Xiaojun Chang , Xiaojiang Chen , Jinye Peng, and Pengfei Xu*（通信作者）. IEEE Transcationson Information Forensics and Security，19:2997-3007,2024.(CCF A)  
-[6]Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices. Biyao Gong , Tianzhang Xing , Zhidan Liu , Wei Xi , and Xiaojiang Chen. 2024. （TMC CCF A）.（目前在线发表）  
-[7]Towards Multi-area Contactless Museum Visitor Counting with Commodity WiFi. Jiang Y, Zhen X, Feng C (冯超). 2024 ACM Journal on Computing and Cultural Heritage. (SCI 四区)  
+[6][website](https://ieeexplore.ieee.org/abstract/document/10316644/)Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices. Biyao Gong , Tianzhang Xing , Zhidan Liu , Wei Xi , and Xiaojiang Chen. 2024. （TMC CCF A）.（目前在线发表）  
+[7][website](https://dl.acm.org/doi/abs/10.1145/3530694/)Towards Multi-area Contactless Museum Visitor Counting with Commodity WiFi. Jiang Y, Zhen X, Feng C (冯超). 2024 ACM Journal on Computing and Cultural Heritage. (SCI 四区)  
   
 2023  
 1 相关代表性国际会议  
