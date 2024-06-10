@@ -10,7 +10,7 @@ redirect_from:
 2024  
 [1] [NSDI’24] Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, Xiaojiang Chen, Yaxiong Xie. (CCF 推荐A类会议)（目前只是接收状态，还没有正式发表）    
 [2] [MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649344) RFMagus: Programming the Radio Environment With Networked Metasurfaces. Xinyi Li, Gaoteng Zhao, Ling Chen, Xinyu Zhang, Ju Ren. AR=48/207. (CCF推荐A类会议)  
-[3] [MobiCom’24] Pushing Wireless Charging from Station to Travel. Lili Chen, Bozhong Yu, Yongjian Fu, Ju Ren, Hao Pan, Jeremy Gummeson, Yaoxue Zhang. AR=48/207. (CCF推荐A类会议)  
+[3] [MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649346) Pushing Wireless Charging from Station to Travel. Lili Chen, Bozhong Yu, Yongjian Fu, Ju Ren, Hao Pan, Jeremy Gummeson, Yaoxue Zhang. AR=48/207. (CCF推荐A类会议)  
 [4] [MobiCom’24] Gastag: A Gas Sensing Paradigm using Metamaterial Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  Xiaojiang Chen*(通信作者). (Mobicom'24, 条件接收，还没有正式发表, CCF推荐A类国际会议).  
 [5] [ICSE’24]Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction.Huanting Wang, Zhanyong Tang*（共同通信作者）, Shin Hwei Tan, Jie Wang, Yuzhe Liu, Hejun Fang, Chunwei Xia, Zheng Wang*（共同通信作者）.(CCF推荐A类会议)  
   
