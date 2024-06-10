@@ -181,7 +181,7 @@ redirect_from:
 [18][website](https://www.sciencedirect.com/science/article/pii/S1389128618309708)  Enabling robust and reliable transmission in Internet of Things with multiple gateways. Dan Xu, Wenli Jiao, Zhuang Yin, Bin Wu, Yao Peng, __Xiaojiang Chen__*, Feng Chen, Dingyi Fang. Computer Networks, 146:183-199 ,2018. (CN CCF B,中科院 SCI 3区) （清华大学推荐B 类期刊）  
 [19][website](https://ieeexplore.ieee.org/abstract/document/8107493/)  R&P: An Low-Cost Device-Free Activity Recognition for E-Health. 李荔垚、百瑞、谢彬彬、彭瑶*、王安文、王薇、姜博、梁健、__陈晓江__。IEEE ACCESS,6: 81-90, 2018.  
 3 国内一级学报  
-[1][website](https://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=5328&st=alljournals) 高鲁棒性低延迟的路由协议[J].兰轩宇,__陈晓江(通信作者)__,徐丹,彭瑶(通信作者),房鼎益.软件学报,2018,29(12):3886-3903.  
+[1][website](https://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=5328&st=alljournals) 高鲁棒性低延迟的路由协议[J].兰轩宇,__陈晓江*(通信作者)__,徐丹,彭瑶(通信作者),房鼎益.软件学报,2018,29(12):3886-3903.  
   
   
 2017  
@@ -206,7 +206,7 @@ redirect_from:
 [10][website](https://link.springer.com/article/10.1007/s11390-017-1798-8)  A Reverse Auction Framework for Hybrid Access in Femtocell Network.Yanjiao Chen, Xiaoyan Yin*, Jin Zhang. Journal of Computer Science and Technology,32(6):1250-1264, 2017. (JCST CCF B, SCI 2区).（清华大学推荐B 类期刊）  
 [11][website](https://www.sciencedirect.com/science/article/pii/S1084804516303022)  Bandwidth Scheduling for Big Data Transfer Using Multiple Fixed Node-Disjoint Paths. Aiqin Hou, Chase Q. Wu*， Dingyi Fang, Yongqiang Wang, Meng Wang. Journal of Network and Computer Applications, 85:47-55,2017.  
 3 国内一级学报  
-[1][website](https://www.jos.org.cn/jos/article/pdf/5248)  基于数据价值的无人机数据收集方法[J]. 徐丹,李伟,王安文,范浩楠,龚晓庆,__陈晓江(通信作者)__,房鼎益(通信作者).软件学报,2017,28(12):3206-3222.  
+[1][website](https://www.jos.org.cn/jos/article/pdf/5248)  基于数据价值的无人机数据收集方法[J]. 徐丹,李伟,王安文,范浩楠,龚晓庆,__陈晓江*(通信作者)__,房鼎益(通信作者).软件学报,2017,28(12):3206-3222.  
 [2][website](http://www.cqvip.com/qk/90818x/20178/673042537.html)  一种基于RSSI的智能家居环境Evil-Twin攻击的检测方法[J]. 房鼎益,祁生德,汤战勇（通信作者）,__陈晓江__,顾元祥.计算机学报,2017,40(08):1764-1778.  
 [3][website](http://www.cqvip.com/qk/94913x/201712/7000399053.html)  基于RFID的免携带设备手势识别关键技术研究[J].王旋,方河川,常俪琼,王举,__陈晓江__,房鼎益,彭瑶(通信作者),陈峰.计算机研究与发展,2017,54(12):2752-2760.  
 [4][website](http://www.cqvip.com/qk/95202x/201801/674335840.html)  一种利用无线信号的被动式多目标定位系统[J].邢天璋,谢彬彬,杨康,汤战勇,房鼎益.西安电子科技大学学报,2017-06-29.  
@@ -228,7 +228,7 @@ redirect_from:
 [2][website](https://www.sciencedirect.com/science/article/pii/S0925231216306993)  Dynamic character grouping based on four consistency constraints in topographic maps. 许鹏飞，苗启广，刘如意等。（2016）  
 [3][website](https://www.sciencedirect.com/science/article/pii/S0925231216000059)  Graphic-based character grouping in topographic maps. 许鹏飞，苗启广, __陈晓江__ 等。（2016）  
 3、国内一级学报  
-[1][website](http://cjc.ict.ac.cn/online/onlinepaper/clq-2016428101732.pdf)  一种有效消除环境噪声的被动式目标定位方法[J]. 常俪琼,房鼎益,__陈晓江(通信作者)__,王举,汤战勇,聂卫科,刘晨.计算机学报,2016,39(05):1051-1066.  
+[1][website](http://cjc.ict.ac.cn/online/onlinepaper/clq-2016428101732.pdf)  一种有效消除环境噪声的被动式目标定位方法[J]. 常俪琼,房鼎益,__陈晓江*(通信作者)__,王举,汤战勇,聂卫科,刘晨.计算机学报,2016,39(05):1051-1066.  
 [2][website](http://www.cqvip.com/qk/95659x/201609/669842369.html)  一种代码碎片化的Android应用程序防二次打包方法[J].樊如霞,房鼎益,汤战勇（通信作者）,__陈晓江__,刘方圆,李政桥.小型微型计算机系统,2016,37(9):1969-1974. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
 [3][website](http://www.cqvip.com/qk/95549a/20166/669147774.html)  一种基于混合深度置信模型的面部表情识别方法[J].杨雨浓,房鼎益,王洪.西南大学学报(自然科学版),2016-06-20.  
 [4][website](http://www.cqvip.com/qk/90344a/201603/668195035.html)  一种具有指令集随机化的代码虚拟化保护系统[J].汤战勇,李光辉,房鼎益,__陈晓江__.华中科技大学学报(自然科学版),2016,44(3):28-33.  
