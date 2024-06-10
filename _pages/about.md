@@ -8,29 +8,29 @@ redirect_from:
 ---
 
 2024  
-[1] [NSDI’24]  Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, ____Xiaojiang Chen____, Yaxiong Xie. (CCF 推荐A类会议)（目前只是接收状态，还没有正式发表）    
-[2] [MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649344)  RFMagus: Programming the Radio Environment With Networked Metasurfaces. Xinyi Li, Gaoteng Zhao, Ling Chen, Xinyu Zhang, Ju Ren. AR=48/207. (CCF推荐A类会议)  
-[3] [MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649346)  Pushing Wireless Charging from Station to Travel. Lili Chen, Bozhong Yu, Yongjian Fu, Ju Ren, Hao Pan, Jeremy Gummeson, Yaoxue Zhang. AR=48/207. (CCF推荐A类会议)  
-[4] [MobiCom’24] Gastag: A Gas Sensing Paradigm using Metamaterial  Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  __Xiaojiang Chen__*(通信作者). (Mobicom'24, 条件接收，还没有正式发表, CCF推荐A类国际会议).  
-[5] [ICSE’24](https://dl.acm.org/doi/abs/10.1145/3597503.3639212)  Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction.Huanting Wang, Zhanyong Tang*（共同通信作者）, Shin Hwei Tan, Jie Wang, Yuzhe Liu, Hejun Fang, Chunwei Xia, Zheng Wang*（共同通信作者）.(CCF推荐A类会议)  
+[1][NSDI’24]  Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, ____Xiaojiang Chen____, Yaxiong Xie. (CCF 推荐A类会议)（Currently it is just in the receiving state and has not been officially published）    
+[2][MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649344)  RFMagus: Programming the Radio Environment With Networked Metasurfaces. Xinyi Li, Gaoteng Zhao, Ling Chen, Xinyu Zhang, Ju Ren. AR=48/207. (CCF推荐A类会议)  
+[3][MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649346)  Pushing Wireless Charging from Station to Travel. Lili Chen, Bozhong Yu, Yongjian Fu, Ju Ren, Hao Pan, Jeremy Gummeson, Yaoxue Zhang. AR=48/207. (CCF推荐A类会议)  
+[4][MobiCom’24] Gastag: A Gas Sensing Paradigm using Metamaterial  Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  __Xiaojiang Chen__*(通信作者). (Mobicom'24, Currently it is just in the receiving state and has not been officially published, CCF推荐A类国际会议).  
+[5][ICSE’24](https://dl.acm.org/doi/abs/10.1145/3597503.3639212)  Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction.Huanting Wang, Zhanyong Tang*（共同通信作者）, Shin Hwei Tan, Jie Wang, Yuzhe Liu, Hejun Fang, Chunwei Xia, Zheng Wang*（共同通信作者）.(CCF推荐A类会议)  
   
 2 相关代表期刊文章  
-[1]  [website](https://ieeexplore.ieee.org/abstract/document/10036978/)  CARING: Towards Collaborative and Cross-domain Wi-Fi Sensing. Xinyi Li, Fengyi Song, Mina Luo, Kang Li, Liqiong Chang, __Xiaojiang Chen__*（通信作者）, Zheng Wang. IEEE Transactions on Mobile Computing, vol. 23, no. 2 PP.1674-1688, 2024. （TMC CCF A）  
+[1][website](https://ieeexplore.ieee.org/abstract/document/10036978/)  CARING: Towards Collaborative and Cross-domain Wi-Fi Sensing. Xinyi Li, Fengyi Song, Mina Luo, Kang Li, Liqiong Chang, __Xiaojiang Chen__*（通信作者）, Zheng Wang. IEEE Transactions on Mobile Computing, vol. 23, no. 2 PP.1674-1688, 2024. （TMC CCF A）  
 [2]  [website](https://ieeexplore.ieee.org/abstract/document/10061277/)  SoilTAG: Fine-Grained Soil Moisture Sensing Through Chipless Tags. Wenli Jiao, Ju Wang*（共同通信）, Yelu He, Xiangdong Xi, Fuwei Wang*（共同通信）. IEEE Transactions on Mobile Computing, vol. 23, no. 3 PP.2153-2170, 2024. (TMC CCF A).  
-[3]  [website](https://ieeexplore.ieee.org/abstract/document/10283475/)  Eliminating design effort: A reconfigurable sensing framework for chipless, backscatter tags. Wenli Jiao, Ju Wang*（共同通信）, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang,  __Xiaojiang Chen__*（共同通信）. 2024 (TON CCF A).    
-[4]  [website](https://ieeexplore.ieee.org/abstract/document/10159382/)  WiAi-ID: Wi-Fi-Based Domain Adaptation for Appearance-independent Passive Person Identification. Ying Liang, Wenjie Wu, Haobo Li, Feng Han, Zhengqi Liu, Pengfei Xu*（通信作者）, Xiaoli Lian, __Xiaojiang Chen__. IEEE Internet of Things Journal.11(1):1012-1027, 2024. （SCI 一区）  
+[3][website](https://ieeexplore.ieee.org/abstract/document/10283475/)  Eliminating design effort: A reconfigurable sensing framework for chipless, backscatter tags. Wenli Jiao, Ju Wang*（共同通信）, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang,  __Xiaojiang Chen__*（共同通信）. 2024 (TON CCF A).    
+[4][website](https://ieeexplore.ieee.org/abstract/document/10159382/)  WiAi-ID: Wi-Fi-Based Domain Adaptation for Appearance-independent Passive Person Identification. Ying Liang, Wenjie Wu, Haobo Li, Feng Han, Zhengqi Liu, Pengfei Xu*（通信作者）, Xiaoli Lian, __Xiaojiang Chen__. IEEE Internet of Things Journal.11(1):1012-1027, 2024. （SCI 一区）  
 [5][website](https://ieeexplore.ieee.org/abstract/document/10411052/)  DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI.Ying Liang , Wenjie Wu , Haobo Li , Xiaojun Chang , __Xiaojiang Chen__ , Jinye Peng, and Pengfei Xu*（通信作者）. IEEE Transactions on Information Forensics and Security，19:2997-3007,2024.(CCF A)  
 [6][website](https://ieeexplore.ieee.org/abstract/document/10316644/)  Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices. Biyao Gong, Tianzhang Xing, Zhidan Liu, Wei Xi, and __Xiaojiang Chen__. 2024. （TMC CCF A）. （目前在线发表）  
 [7][website](https://dl.acm.org/doi/abs/10.1145/3530694/)  Towards Multi-area Contactless Museum Visitor Counting with Commodity WiFi. Jiang Y, Zhen X, Feng C (冯超). 2024 ACM Journal on Computing and Cultural Heritage. (SCI 四区)  
   
 2023  
 1 相关代表性国际会议  
-[1] [ESEC/FSE’23](https://dl.acm.org/doi/abs/10.1145/3611643.3616332)  A Generative and Mutational Approach for Synthesizing. Guixin Ye, Tiabmin Hu, Zhanyong Tang, Zhenye Fan, Shin Hwei Tan. (CCF推荐A类会议)  
-[2] [NSDI’23](https://www.usenix.org/conference/nsdi23/presentation/li-xinyi)  RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks. Xinyi Li, Chao Feng, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, __Xiaojiang Chen__*（通信作者）. (CCF推荐A类会议)  
-[3] [UbiComp’23](https://dl.acm.org/doi/abs/10.1145/3580859)  RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition. Xuan Wang, Tong Liu, Chao Feng, Dingyi Fang, __Xiaojiang Chen__*（通信作者）. (CCF推荐A类会议)  
-[4] [MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596834)  BioScatter: Low Power Sweat Sensing with Backscatter. Wenli Jiao, Yanlin Li, Xiangdong Xi, Ju Wang*（通信作者）, Dingyi Fang, __Xiaojiang Chen__. (CCF推荐B类会议)  
-[5] [MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596849)  Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices. Guorong He, Shaojie Chen, Dan Xu*(通信作者), __Xiaojiang Chen__, Yaxiong Xie, Xinhuai Wang, Dingyi Fang. (CCF推荐B类会议)  
-[6] [MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596833)  Towards Seamless Wireless Link Connection. Lili Chen, Bozhong Yu, Ju Ren, Jeremy Gummeson, Yaoxue Zhang. (CCF推荐B类会议)  
+[1][ESEC/FSE’23](https://dl.acm.org/doi/abs/10.1145/3611643.3616332)  A Generative and Mutational Approach for Synthesizing. Guixin Ye, Tiabmin Hu, Zhanyong Tang, Zhenye Fan, Shin Hwei Tan. (CCF推荐A类会议)  
+[2][NSDI’23](https://www.usenix.org/conference/nsdi23/presentation/li-xinyi)  RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks. Xinyi Li, Chao Feng, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, __Xiaojiang Chen__*（通信作者）. (CCF推荐A类会议)  
+[3][UbiComp’23](https://dl.acm.org/doi/abs/10.1145/3580859)  RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition. Xuan Wang, Tong Liu, Chao Feng, Dingyi Fang, __Xiaojiang Chen__*（通信作者）. (CCF推荐A类会议)  
+[4][MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596834)  BioScatter: Low Power Sweat Sensing with Backscatter. Wenli Jiao, Yanlin Li, Xiangdong Xi, Ju Wang*（通信作者）, Dingyi Fang, __Xiaojiang Chen__. (CCF推荐B类会议)  
+[5][MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596849)  Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices. Guorong He, Shaojie Chen, Dan Xu*(通信作者), __Xiaojiang Chen__, Yaxiong Xie, Xinhuai Wang, Dingyi Fang. (CCF推荐B类会议)  
+[6][MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596833)  Towards Seamless Wireless Link Connection. Lili Chen, Bozhong Yu, Ju Ren, Jeremy Gummeson, Yaoxue Zhang. (CCF推荐B类会议)  
 [7][IEEE CLUSTER'23](https://ieeexplore.ieee.org/abstract/document/10319976/)  Optimizing HPC I/O Performance with Regression Analysis and Ensemble Learning. Zhangyu Liu,  Cheng Zhang, Huijun Wu, Jianbin Fang, Lin Peng, Guixing Ye, Zhanyong Tang*(通信作者) (CCF推荐B类会议)  
 2 相关代表期刊文章  
 [1][website](https://ieeexplore.ieee.org/abstract/document/10070820/)  When Object Detection Meets Knowledge Distillation: A Survey. Zhihui Li (共同第一) , Pengfei Xu (共同第一，通讯) , Xiaojun Chang , Luyao Yang , Yuanyuan Zhang , Lina Yao , __Xiaojiang Chen__. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023：1-25. DOI: 10.1109/TPAMI.2023.3257546. （CCF-A, SCI 1区）.  
@@ -48,7 +48,7 @@ redirect_from:
 [4][UbiComp’22](https://dl.acm.org/doi/abs/10.1145/3569472)  Earmonitor: In-ear Motion-resilient Acoustic Sensing using Commodity Earphones. Xue Sun，Jie Xiong，Chao Feng*（通信作者）, Wenwen Deng，Xudong Wei，Dingyi Fang，__Xiaojiang Chen__. (CCF推荐A类会议)  
 [5][CVPR’22](http://openaccess.thecvf.com/content/CVPR2022/html/Ren_Beyond_Fixation_Dynamic_Window_Visual_Transformer_CVPR_2022_paper.html)  Beyond Fixation: Dynamic Window Visual Transformer.Pengzhen Ren,Changlin Li,Guangrun Wang,Yun Xiao*(共同通信作者),Qing Du* ,Xiaodan Liang,Xiaojun Chang. (CCF推荐A类会议)  
 [6][IPSN’22](https://ieeexplore.ieee.org/document/9825992)  Eliminating Design Effort: A Reconfigurable Sensing Framework For Chipless, Backscatter Tags. Wenli Jiao, Ju Wang*, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang, __Xiaojiang Chen__*（共同通信作者）.  
-[7] [SECON ’22](https://ieeexplore.ieee.org/abstract/document/9918572/)  How Manufacturers Can Easily Improve Working Range of Passive RFIDs. Ju Wang, Liqiong Chang, Omid Abari, Srinivasan Keshav. （CCF B类会议）  
+[7][SECON ’22](https://ieeexplore.ieee.org/abstract/document/9918572/)  How Manufacturers Can Easily Improve Working Range of Passive RFIDs. Ju Wang, Liqiong Chang, Omid Abari, Srinivasan Keshav. （CCF B类会议）  
 [8][CC ’22](https://dl.acm.org/doi/abs/10.1145/3497776.3517769)  Automating Reinforcement Learning Architecture Design for Code Optimization. Huanting Wang, Zhanyong Tang, Cheng Zhang, Jiaqi Zhao, Chris Cummins, Hugh Leather, Zheng Wang. (CCF推荐B类会议)  
 [9][ICA3PP 2021](https://link.springer.com/chapter/10.1007/978-3-030-95384-3_27)  Motion-sequence Authentication System: Using Habits are the Guard for Smart Phones. Yuzheng Dong, Yanfeng Zhao, Ziyue Wang, Juan He*（通讯作者）, Liubin Zhu. （ICA3PP 2022）  
 2、相关代表期刊文章  
@@ -80,7 +80,7 @@ redirect_from:
 [3][website](https://ieeexplore.ieee.org/abstract/document/9024017/)  Exploiting Interference Fingerprints for Predictable Wireless Concurrency. Meng Jin， Yuan He*， Xiaolong Zheng， Dingyi Fang*， Dan Xu， Tianzhang Xing，__Xiaojiang Chen__. IEEE Transactions on Mobile Computing, vol. 20, no. 7 pp. 2354-2366, 2021. （TMC CCF A）  
 [4][website](https://ieeexplore.ieee.org/abstract/document/8869940/)  Signed-PageRank: An Efficient Influence Maximization Framework for Signed Social Networks. Xiaoyan Yin, Xiao Hu, Yanjiao Chen*, Xu Yuan and Baochun Li. IEEE Transactions on Knowledge and Data Engineering. 33(5): 2208-2222, 2021. (TKDE CCF A)  
 [5][website](https://www.xiaojun.ai/papers/Scene-Graph-Survey.pdf)  Scene Graphs: A Survey of Generations and Applications Xiaojun Chang, Pengzhen Ren, Pengfei Xu*, Zhihui Li*, __Xiaojiang Chen__, Alexander G. Hauptmann.(2021) (TPAMI CCF A)（网上发表，不是正式出版）  
-[6] [website](https://ieeexplore.ieee.org/abstract/document/9661322/)  A Comprehensive Survey of Scene Graphs: Generation and Application. Xiaojun Chang, Pengzhen Ren, Pengfei Xu*（共同通信作者）, Zhihui Li*, __Xiaojiang Chen__, and Alex Hauptmann. (2021接收) (TPAMI CCF A)（在线发表）  
+[6][website](https://ieeexplore.ieee.org/abstract/document/9661322/)  A Comprehensive Survey of Scene Graphs: Generation and Application. Xiaojun Chang, Pengzhen Ren, Pengfei Xu*（共同通信作者）, Zhihui Li*, __Xiaojiang Chen__, and Alex Hauptmann. (2021接收) (TPAMI CCF A)（在线发表）  
 [7][website](https://www.sciencedirect.com/science/article/pii/S1389128621001134)  Towards practical 3D ultrasound sensing on commercial-off-the-shelf mobile devices.Shuangjiao Zhai, Guixin Ye*, Zhanyong Tang*, Jie Ren, Dingyi Fang, Baoying Liu, Zheng Wang. Computer Networks, 191:107990, 2021. (中国计算机学会 CCF 推荐B类期刊) （第一作者为汤战勇与科研团队负责人联合指导的博士生）（清华大学计算机网络推荐B 类期刊）  
 [8][website](https://www.sciencedirect.com/science/article/pii/S0950705121005967)  CS-GAN: Cross-Structure Generative Adversarial Networks for Chinese Calligraphy Translation.Yun Xiao, Wenlong Lei, Lei Lu, Xiaojun Chang*, Xia Zheng*, __Xiaojiang Chen__. Knowledge-based systems, 229: 1-10, 2021. (CCF C SCI 1区)（清华大学人工智能与模式识别推荐B 类期刊）  
 [9][website](https://ieeexplore.ieee.org/abstract/document/9153779)  Cantor: Improving Goodput in LoRa Concurrent Transmission. Dan Xu, __Xiaojiang Chen*__, Nannan Zhang, Nana Ding, Jing Zhang, Dingyi Fang, Tao Gu。IEEE Internet of Things Journal.8(3):1519-1532,2021.  
@@ -98,7 +98,7 @@ redirect_from:
 [2][SenSys’20](https://dl.acm.org/doi/abs/10.1145/3384419.3430771)  Exploring commodity RFID for contactless sub-millimeter vibration sensing. Binbin Xie, Jie Xiong, __Xiaojiang Chen__, Dingyi Fang. (CCF推荐B类会议) （清华大学计算机网络推荐A类会议）  
 [3][PACT’20](https://dl.acm.org/doi/abs/10.1145/3410463.3414670)  Deep Program Structure Modeling Through Multi-Relational Graph-based Learning. Guixin Ye, Zhanyong Tang* Huanting Wang, Dingyi Fang, Jianbin Fang, Songfang Huang, Zheng Wang*. (CCF推荐B类会议)（清华大学高性能计算推荐B 类会议）  
 2 相关代表期刊文章  
-[1] [website](https://ieeexplore.ieee.org/abstract/document/9110880/)  Monostatic MIMO Backscatter Communications. Chen He, Shangdong Chen, Huixu Luan, __Xiaojiang Chen__, Z. Jane Wang. 38(8): 1896-1909 (2020)  
+[1][website](https://ieeexplore.ieee.org/abstract/document/9110880/)  Monostatic MIMO Backscatter Communications. Chen He, Shangdong Chen, Huixu Luan, __Xiaojiang Chen__, Z. Jane Wang. 38(8): 1896-1909 (2020)  
 [2][website](https://ieeexplore.ieee.org/abstract/document/9293321/)  Combining Graph-Based Learning With Automated Data Collection for Code Vulnerability Detection. Huanting Wang, Guixin Ye, Zhanyong Tang*, Shin Hwei Tan, Songfang Huang， Dingyi Fang, Yansong Feng, Lizhong Bian, and Zheng Wang*. 16:1943-1958,2020.(CCF推荐A类期刊) （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
 [3][website](https://dl.acm.org/doi/abs/10.1145/3407899)  dWatch: A Reliable and Low-Power Drowsiness Detection System for Drivers Based on Mobile Devices. Tianzhang Xing, Qing Wang, Chase Q. Wu, Wei Xi, __Xiaojiang Chen__*（通信作者）. ACM Transactions on Sensor Networks  16(4): 37:1-37:22, 2020. (TOSN，CCF B) （清华大学计算机网络推荐B 类期刊）  
 [4][website](https://www.sciencedirect.com/science/article/pii/S0167404820300936)  Compile-time code virtualization for Android applications. Yujie Zhao, Zhanyong Tang*, Guixin Ye, Dongxu Peng, Dingyi Fang, __Xiaojiang Chen__, Zheng Wang. 94:101821, 2020 (中国计算机学会推荐B类期刊) （第一作者为汤战勇与科研团队负责人联合指导的博士生）（清华大学网络与信息安全推荐B 类期刊）  
@@ -114,9 +114,9 @@ redirect_from:
 [14][website](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300412)  Automatic evaluation of facial nerve paralysis by dual-path LSTM with deep differentiated network. Pengfei Xu, Fei Xie, Tongsheng Su, Zhaoxin Wan, Zhaoyong Zhou, Xiaoyu Xin, Ziyu Guan。Neurocomputing, Volume 388, 2020, Pages 70-77, ISSN 0925-2312（2020）  
 [15][website](https://ieeexplore.ieee.org/abstract/document/9103547/)  MobileAid: A Fast and Effective Cognitive Aid System on Mobile Devices. Xinyi Liu; Baoying Liu; Guoqing Liu; Feng Chen; Tianzhang Xing.(2020)  
 3 国内一级学报  
-[1]一种基于条件生成式对抗网络的文本类验证码识别方法[J].汤战勇,田超雄,叶贵鑫,李婧,王薇（通信作者），龚晓庆，__陈晓江__，房鼎益.计算机学报,2020.  
-[2]基于链路交点相对位置信息的轻量级覆盖空洞检测算法[J].韩雨涝,房鼎益 计算机应用,2020-09-10.  
-[3]联合无线充电与数据收集的移动充电装置多目标路径规划算法[J].韩雨涝,房鼎益,计算机应用,2020-01-06.  
+[1][website](http://cjc.ict.ac.cn/online/onlinepaper/tzy-2020719163543.pdf)  一种基于条件生成式对抗网络的文本类验证码识别方法[J].汤战勇,田超雄,叶贵鑫,李婧,王薇（通信作者），龚晓庆，__陈晓江__，房鼎益.计算机学报,2020.  
+[2][website](http://www.joca.cn/CN/abstract/abstract23963.shtml)  基于链路交点相对位置信息的轻量级覆盖空洞检测算法[J].韩雨涝,房鼎益 计算机应用,2020-09-10.  
+[3][website](http://www.joca.cn/CN/Y2020/V40/I6/1745)  联合无线充电与数据收集的移动充电装置多目标路径规划算法[J].韩雨涝,房鼎益,计算机应用,2020-01-06.  
   
   
 2019  
@@ -125,30 +125,30 @@ redirect_from:
 [2][UbiComp’19](https://dl.acm.org/doi/abs/10.1145/3351237)  LungTrack: Towards Contactless and Zero Dead-Zone Respiration Monitoring with Commodity RFIDs. Lili Chen ,Jie Xiong, __Xiaojiang Chen__*（通信作者）, Sunghoon Ivan Lee, Tao Yan, Dingyi Fang.  
 [3][UbiComp’19](https://dl.acm.org/doi/abs/10.1145/3351254)  Beyond Respiration: Contactless Sleep Sound Activity Recognition Using RF Signals. Chen Liu, Jie Xiong, Lin Cai, Lin Feng, __Xiaojiang Chen__, Dingyi Fang.  
 [4][SenSys’19](https://dl.acm.org/doi/abs/10.1145/3356250.3360031)  WideSee: Towards Wide-Area Contactless Wireless Sensing. Lili Chen, Jie Xiong, __Xiaojiang Chen__*（通信作者）, Sunghoon Ivan Lee, Kai Chen, Dianhe Han, Dingyi Fang, Zhanyong Tang, Zheng Wang.(Best Paper Award Candidates). (CCF推荐B类会议, 清华推荐 A) （清华大学计算机网络推荐A类会议）  
-[5] [SenSys’19](https://dl.acm.org/doi/abs/10.1145/3356250.3360027)  Tagtag: Material Sensing with Commodity RFID. Binbin Xie, Jie Xiong, __Xiaojiang Chen__, Eugene Chai, Liyao Li, Zhanyong Tang, Dingyi Fang. (CCF推荐B类会议,  清华推荐 A类会议)  
+[5][SenSys’19](https://dl.acm.org/doi/abs/10.1145/3356250.3360027)  Tagtag: Material Sensing with Commodity RFID. Binbin Xie, Jie Xiong, __Xiaojiang Chen__, Eugene Chai, Liyao Li, Zhanyong Tang, Dingyi Fang. (CCF推荐B类会议,  清华推荐 A类会议)  
 [6][ICDCS’19](https://ieeexplore.ieee.org/abstract/document/8884791/)  WiMi: Target Material Identification with Commodity Wi-Fi Devices. Chao Feng, Jie Xiong, Liqiong Chang, Ju Wang, __Xiaojiang Chen__*（通信作者）, Dingyi Fang, Zhanyong Tang. (CCF推荐B类会议)（清华大学高性能计算推荐B类会议）  
-[7] [MobiSys’19](https://dl.acm.org/doi/abs/10.1145/3307334.3326084)  Are RFID sensing systems ready for the real world? Ju Wang， Liqiong Chang， Omid Abari， Srinivasan Keshav. (CCF推荐B类会议)（清华大学计算机网络推荐A类会议）第一作者单位不是西北大学  
+[7][MobiSys’19](https://dl.acm.org/doi/abs/10.1145/3307334.3326084)  Are RFID sensing systems ready for the real world? Ju Wang， Liqiong Chang， Omid Abari， Srinivasan Keshav. (CCF推荐B类会议)（清华大学计算机网络推荐A类会议）第一作者单位不是西北大学  
 [8][SenSys '19](https://dl.acm.org/doi/abs/10.1145/3356250.3361931)  Poster abstract: Towards wide-area contactless human sensing: poster abstract.Kai Chen, Lili Chen, Dianhe Han, Jie Xiong, Sunghoon Ivan Lee, __Xiaojiang Chen__, Zhanyong Tang, Dingyi Fang, Fuwei Wang, Zheng Wang. (Poster )  
 2 相关代表期刊文章  
 [1][website](https://ieeexplore.ieee.org/abstract/document/8825556/)  cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing. Yang Kang, Xing Tianzhang, Liu Yang, Li Zhenjiang*, Gong Xiaoqing, Chen Xiaojiang, Fang Dingyi. IEEE/ACM Transactions on Networking27(5): 2043-2055, 2019. (TON，CCF A)  
 [2][website](https://dl.acm.org/doi/abs/10.1145/3117811.3117828)  FlipTracer: Practical Parallel Decoding for Backscatter Communication. Meng Jin, Yuan He*, Xin Meng, Yilun Zheng, Dingyi Fang*, __Xiaojiang Chen__. IEEE/ACM Transactions on Networking, 27(1): 330-343, 2019. (TON，CCF A).  
 [3][website](https://dl.acm.org/doi/abs/10.1145/3309701)  Low-Cost and Robust Geographic Opportunistic Routing in a Strip Topology Wireless Network. Chen Liu, Dingyi Fang, Xinyan Liu, Dan Xu, __Xiaojiang Chen__*（通信作者）, Chieh-Jan Mike Liang, Baoying Liu, Zhanyong Tang. ACM Transactions on Sensor Networks,15(2): 24:1-24:27, 2019. (TOSN，CCF B) （清华大学计算机网络推荐B 类期刊）  
 [4][website](https://www.ijcai.org/Proceedings/2018/0146.pdf)  Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based ApproachDualSync: Taming Clock Skew Variation for Synchronization in Low-Power Wireless Networksme a safe zone: A countermeasure for channel state information based attacks. Jie Zhang, Zhanyong Tang*, Meng Li, Dingyi Fang, __Xiaojiang Chen__, Zheng Wang.Computers & Security,80: 273-290,2019.(中国计算机学会推荐B类期刊) （第一作者为汤战勇与科研团队负责人联合指导的博士生）（清华大学网络与信息安全推荐B 类期刊）  
-[5] [website](https://ieeexplore.ieee.org/abstract/document/8825556/)  cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing. Yang Kang, Xing Tianzhang, Liu Yang, Li Zhenjiang*, Gong Xiaoqing, Chen Xiaojiang, Fang Dingyi. IEEE/ACM Transactions on Networking27(5): 2043-2055, 2019.  
+[5][website](https://ieeexplore.ieee.org/abstract/document/8825556/)  cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing. Yang Kang, Xing Tianzhang, Liu Yang, Li Zhenjiang*, Gong Xiaoqing, Chen Xiaojiang, Fang Dingyi. IEEE/ACM Transactions on Networking27(5): 2043-2055, 2019.  
 [6][website](https://dl.acm.org/doi/abs/10.1145/3117811.3117828)  FlipTracer: Practical Parallel Decoding for Backscatter Communication. Meng Jin, Yuan He*, Xin Meng, Yilun Zheng, Dingyi Fang*, __Xiaojiang Chen__. IEEE/ACM Transactions on Networking, 27(1): 330-343, 2019. (TON，CCF A, SCI 2区).  
 [7][website](https://ieeexplore.ieee.org/abstract/document/8766953/)  Sensing Our World Using Wireless Signals. __Xiaojiang Chen__, Lili Chen, Chao Feng, Dingyi Fang, Jie Xiong, Zheng Wang, Yong Cui. IEEE Internet Computing,23(3): 38-45 (2019).  
-[8] [website](https://ieeexplore.ieee.org/abstract/document/8676236/)  Cooperative Transmission with Priority and Fairness in Edge Computing Systems. 尹小燕，贾茹昭，陈艳姣，潘淼。（2019）  
-[9] [website](https://ieeexplore.ieee.org/abstract/document/8820138/)  SID: Sensor-assisted Image Deblurring System for Mobile Devices. 王清，谭君，邢天璋，陈峰，牛进平。（2019）  
-[10] [website](https://ieeexplore.ieee.org/abstract/document/8864975/)  Collaborative Analysis Framework of Safety and Security for Autonomous Vehicles. 崔瑾，Giedre Sabaliauskaite, LinShen Liew, 周凤君、Biao Zhang。（2019）  
-[11] [website](https://ieeexplore.ieee.org/abstract/document/8701568/)  NDNVIC: Named Data Networking for Vehicle Infrastructure Cooperation. 王安文，陈婷，陈昊，姬翔，魏巍，韩鑫，陈峰。（2019）（第一作者为陈晓江与科研团队负责人联合指导的博士生）  
-[12][website]()  Invalidating Analysis Knowledge for Code Virtualization Protection Through Partition Diversity.王薇、李梦、汤战勇（通信作者）、王焕廷、叶贵鑫、王夫蔚、任杰、龚晓庆、房鼎益、王峥。2019, 7: 169160-169173.  
-[13] [website](https://ieeexplore.ieee.org/abstract/document/8906126/)  Leveraging WebAssembly for Numerical JavaScript Code Virtualization. 王帅, 叶贵鑫, 李梦,袁璐, 汤战勇, 王焕廷, 王薇 , 王夫蔚（通信作者）, 任杰, 房鼎益, 王峥。2019, 7: 182711-182724.（第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
+[8][website](https://ieeexplore.ieee.org/abstract/document/8676236/)  Cooperative Transmission with Priority and Fairness in Edge Computing Systems. 尹小燕，贾茹昭，陈艳姣，潘淼。（2019）  
+[9][website](https://ieeexplore.ieee.org/abstract/document/8820138/)  SID: Sensor-assisted Image Deblurring System for Mobile Devices. 王清，谭君，邢天璋，陈峰，牛进平。（2019）  
+[10][website](https://ieeexplore.ieee.org/abstract/document/8864975/)  Collaborative Analysis Framework of Safety and Security for Autonomous Vehicles. 崔瑾，Giedre Sabaliauskaite, LinShen Liew, 周凤君、Biao Zhang。（2019）  
+[11][website](https://ieeexplore.ieee.org/abstract/document/8701568/)  NDNVIC: Named Data Networking for Vehicle Infrastructure Cooperation. 王安文，陈婷，陈昊，姬翔，魏巍，韩鑫，陈峰。（2019）（第一作者为陈晓江与科研团队负责人联合指导的博士生）  
+[12][website](https://ieeexplore.ieee.org/abstract/document/8906126/)  Invalidating Analysis Knowledge for Code Virtualization Protection Through Partition Diversity.王薇、李梦、汤战勇（通信作者）、王焕廷、叶贵鑫、王夫蔚、任杰、龚晓庆、房鼎益、王峥。2019, 7: 169160-169173.  
+[13][website](https://ieeexplore.ieee.org/abstract/document/8906126/)  Leveraging WebAssembly for Numerical JavaScript Code Virtualization. 王帅, 叶贵鑫, 李梦,袁璐, 汤战勇, 王焕廷, 王薇 , 王夫蔚（通信作者）, 任杰, 房鼎益, 王峥。2019, 7: 182711-182724.（第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
 [14][website](https://ieeexplore.ieee.org/abstract/document/8732327/)  Exploiting Binary-level Code Virtualization to Protect Android Applications Against App Repackaging.何中凯, 叶贵鑫,袁璐, 汤战勇（通信作者）,王晓峰（通信作者），任杰，王薇,杨建峰, 房鼎益, 王峥。2019, 7: 115062-115074. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
 3 国内一级学报  
-[1]面向多重应用的高鲁棒被动式定位模型研究[J].__陈晓江__,陈丽丽,李博航,汤战勇,谢彬彬,王薇,王安文,房鼎益(通信作者).计算机学报,2019,42(02):173-184.  
-[2]VANET中流调度与路径选择联合优化的传输策略[J]. 强敏,__陈晓江__,尹小燕(通信作者),贾茹昭,徐丹,汤战勇,房鼎益.软件学报,2019,30(02):346-361.  
-[3]基于智能手机内置传感器的人体运动状态识别[J]. 殷晓玲,__陈晓江__,夏启寿,何娟(通信作者),张鹏艳,陈峰.通信学报,2019,40(03):157-169.  
-[4]一种跨APP组件间隐私泄露自动检测方法[J]. 李振,汤战勇（通信作者）,李政桥,王海,龚晓庆,陈峰,__陈晓江__,房鼎益.计算机研究与发展,2019,56(06):1252-1262. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
+[1][website](http://cjc.ict.ac.cn/online/onlinepaper/cxj-201912883058.pdf)  面向多重应用的高鲁棒被动式定位模型研究[J].__陈晓江__,陈丽丽,李博航,汤战勇,谢彬彬,王薇,王安文,房鼎益(通信作者).计算机学报,2019,42(02):173-184.  
+[2][website](https://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=5384)  VANET中流调度与路径选择联合优化的传输策略[J]. 强敏,__陈晓江__,尹小燕(通信作者),贾茹昭,徐丹,汤战勇,房鼎益.软件学报,2019,30(02):346-361.  
+[3][website](https://www.infocomm-journal.com/txxb/EN/article/downloadArticleFile.do?attachType=PDF&id=168319)  基于智能手机内置传感器的人体运动状态识别[J]. 殷晓玲,__陈晓江__,夏启寿,何娟(通信作者),张鹏艳,陈峰.通信学报,2019,40(03):157-169.  
+[4][website](http://www.cqvip.com/qk/94913x/20196/7002192931.html)  一种跨APP组件间隐私泄露自动检测方法[J]. 李振,汤战勇（通信作者）,李政桥,王海,龚晓庆,陈峰,__陈晓江__,房鼎益.计算机研究与发展,2019,56(06):1252-1262. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
   
   
 2018  
@@ -163,7 +163,7 @@ redirect_from:
 [8][IJCAI’18](https://dl.acm.org/doi/abs/10.5555/3304222.3304269)  Line separation from topographic maps using regional color and spatial information. Pengfei Xu, Qiguang Miao, Tiange Liu, __Xiaojiang Chen__, Dingyi Fang. In IJCAI (pp. 3606-3612).  
 [9][IJCAI’18](https://www.researchgate.net/profile/Ren-Pengzhen/publication/326205391_Robust_Auto-Weighted_Multi-View_Clustering/links/5df8a3a1a6fdcc283726b9f9/Robust-Auto-Weighted-Multi-View-Clustering.pdf)  Robust Auto-Weighted Multi-View Clustering. Pengzhen Ren, Yun Xiao*, Pengfei Xu, Jun Guo, __Xiaojiang Chen__, Xin Wang, Dingyi Fang. In IJCAI (pp. 2644-2650).  
 [10][PerCom’18](https://ieeexplore.ieee.org/abstract/document/8444586/)  Towards Large-Scale RFID Positioning: A Low-cost, High-precision Solution Based on Compressive Sensing. Liqiong Chang ,Xinyi LI, Ju Wang, Menghai Ning, __Xiaojiang Chen__*, Zhanyong Tang, Zhen Wang. (CCF推荐B类会议) （清华大学人机交互与普适计算推荐B类会议）  
-[11] [SECON’18](https://dl.acm.org/doi/10.1109/TNET.2019.2936939)  cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing. Kang Yang, Xiaoqing Gong, Yang Liu, Zhenjiang Li, Tianzhang Xing*, __Xiaojiang Chen__, Dingyi Fang. (CCF推荐B类会议) （清华大学计算机网络推荐B类会议）  
+[11][SECON’18](https://dl.acm.org/doi/10.1109/TNET.2019.2936939)  cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing. Kang Yang, Xiaoqing Gong, Yang Liu, Zhenjiang Li, Tianzhang Xing*, __Xiaojiang Chen__, Dingyi Fang. (CCF推荐B类会议) （清华大学计算机网络推荐B类会议）  
 [12][SenSys '18](https://dl.acm.org/doi/10.1145/3274783.3275194)  Poster Abstract: Material Identification with Commodity Wi-Fi Devices.Chao Feng, Xinyi Li, Liqiong Chang, Jie Xiong, __Xiaojiang Chen__, Dingyi Fang, Baoying Liu, Feng Chen, Tao Zhang*. (Poster)  
 2 相关代表期刊文章  
 [1][website](https://ieeexplore.ieee.org/abstract/document/8269825/)  iGuard: A Real-Time Anti-Theft System for Smartphones. Meng Jin, Yuan He*, Dingyi Fang, __Xiaojiang Chen__, Xin Meng, and Tianzheng Xing, Transactions on Mobile Computing.17(10): 2307-2320, 2018. (TMC CCF A).  
@@ -181,7 +181,7 @@ redirect_from:
 [18][website](https://www.sciencedirect.com/science/article/pii/S1389128618309708)  Enabling robust and reliable transmission in Internet of Things with multiple gateways. Dan Xu, Wenli Jiao, Zhuang Yin, Bin Wu, Yao Peng, __Xiaojiang Chen__*, Feng Chen, Dingyi Fang. Computer Networks, 146:183-199 ,2018. (CN CCF B,中科院 SCI 3区) （清华大学推荐B 类期刊）  
 [19][website](https://ieeexplore.ieee.org/abstract/document/8107493/)  R&P: An Low-Cost Device-Free Activity Recognition for E-Health. 李荔垚、百瑞、谢彬彬、彭瑶*、王安文、王薇、姜博、梁健、__陈晓江__。IEEE ACCESS,6: 81-90, 2018.  
 3 国内一级学报  
-[1]高鲁棒性低延迟的路由协议[J].兰轩宇,__陈晓江(通信作者)__,徐丹,彭瑶(通信作者),房鼎益.软件学报,2018,29(12):3886-3903.  
+[1][website](https://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=5328&st=alljournals) 高鲁棒性低延迟的路由协议[J].兰轩宇,__陈晓江(通信作者)__,徐丹,彭瑶(通信作者),房鼎益.软件学报,2018,29(12):3886-3903.  
   
   
 2017  
@@ -206,14 +206,14 @@ redirect_from:
 [10][website](https://link.springer.com/article/10.1007/s11390-017-1798-8)  A Reverse Auction Framework for Hybrid Access in Femtocell Network.Yanjiao Chen, Xiaoyan Yin*, Jin Zhang. Journal of Computer Science and Technology,32(6):1250-1264, 2017. (JCST CCF B, SCI 2区).（清华大学推荐B 类期刊）  
 [11][website](https://www.sciencedirect.com/science/article/pii/S1084804516303022)  Bandwidth Scheduling for Big Data Transfer Using Multiple Fixed Node-Disjoint Paths. Aiqin Hou, Chase Q. Wu*， Dingyi Fang, Yongqiang Wang, Meng Wang. Journal of Network and Computer Applications, 85:47-55,2017.  
 3 国内一级学报  
-[1]基于数据价值的无人机数据收集方法[J]. 徐丹,李伟,王安文,范浩楠,龚晓庆,__陈晓江(通信作者)__,房鼎益(通信作者).软件学报,2017,28(12):3206-3222.  
-[2]一种基于RSSI的智能家居环境Evil-Twin攻击的检测方法[J]. 房鼎益,祁生德,汤战勇（通信作者）,__陈晓江__,顾元祥.计算机学报,2017,40(08):1764-1778.  
-[3]基于RFID的免携带设备手势识别关键技术研究[J].王旋,方河川,常俪琼,王举,__陈晓江__,房鼎益,彭瑶(通信作者),陈峰.计算机研究与发展,2017,54(12):2752-2760.  
-[4]一种利用无线信号的被动式多目标定位系统[J].邢天璋,谢彬彬,杨康,汤战勇,房鼎益.西安电子科技大学学报,2017-06-29.  
-[5]基于可执行代码的反污点分析方法研究[J].龚晓庆,周祥,汤战勇（通信作者）,房鼎益,彭瑶，陈峰.工程科学与技术,2017-01-20.  
-[6]一种抗语义攻击的虚拟化软件保护方法[J].房鼎益,张恒,汤战勇（通信作者）,__陈晓江__.工程科学与技术,2017,49(1):159-168.  
-[7]基于攻击威胁监控的软件保护方法[J].汤战勇,李振,张聪,龚晓庆（通信作者）,房鼎益.计算机应用,2017,37(1):120-127.  
-[8]基于smali代码混淆的Android应用保护方法[J].刘方圆,孟宪佳（通信作者）,汤战勇,房鼎益,龚晓庆.山东大学学报(理学版),2017,52(3):44-50. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
+[1][website](https://www.jos.org.cn/jos/article/pdf/5248)  基于数据价值的无人机数据收集方法[J]. 徐丹,李伟,王安文,范浩楠,龚晓庆,__陈晓江(通信作者)__,房鼎益(通信作者).软件学报,2017,28(12):3206-3222.  
+[2][website](http://www.cqvip.com/qk/90818x/20178/673042537.html)  一种基于RSSI的智能家居环境Evil-Twin攻击的检测方法[J]. 房鼎益,祁生德,汤战勇（通信作者）,__陈晓江__,顾元祥.计算机学报,2017,40(08):1764-1778.  
+[3][website](http://www.cqvip.com/qk/94913x/201712/7000399053.html)  基于RFID的免携带设备手势识别关键技术研究[J].王旋,方河川,常俪琼,王举,__陈晓江__,房鼎益,彭瑶(通信作者),陈峰.计算机研究与发展,2017,54(12):2752-2760.  
+[4][website](http://www.cqvip.com/qk/95202x/201801/674335840.html)  一种利用无线信号的被动式多目标定位系统[J].邢天璋,谢彬彬,杨康,汤战勇,房鼎益.西安电子科技大学学报,2017-06-29.  
+[5][website](http://jsuese.cnjournals.com/html/2017/1/201601013.html)  基于可执行代码的反污点分析方法研究[J].龚晓庆,周祥,汤战勇（通信作者）,房鼎益,彭瑶，陈峰.工程科学与技术,2017-01-20.  
+[6][website](http://jsuese.cnjournals.com/html/2017/1/201601015.html)  一种抗语义攻击的虚拟化软件保护方法[J].房鼎益,张恒,汤战勇（通信作者）,__陈晓江__.工程科学与技术,2017,49(1):159-168.  
+[7][website](http://www.cqvip.com/qk/94832x/201701/671036810.html)  基于攻击威胁监控的软件保护方法[J].汤战勇,李振,张聪,龚晓庆（通信作者）,房鼎益.计算机应用,2017,37(1):120-127.  
+[8][website](http://lxbwk.njournal.sdu.edu.cn/CN/abstract/abstract2262.shtml)  基于smali代码混淆的Android应用保护方法[J].刘方圆,孟宪佳（通信作者）,汤战勇,房鼎益,龚晓庆.山东大学学报(理学版),2017,52(3):44-50. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
   
   
 2016  
@@ -228,10 +228,10 @@ redirect_from:
 [2][website](https://www.sciencedirect.com/science/article/pii/S0925231216306993)  Dynamic character grouping based on four consistency constraints in topographic maps. 许鹏飞，苗启广，刘如意等。（2016）  
 [3][website](https://www.sciencedirect.com/science/article/pii/S0925231216000059)  Graphic-based character grouping in topographic maps. 许鹏飞，苗启广，__陈晓江__等。（2016）  
 3、国内一级学报  
-[1]一种有效消除环境噪声的被动式目标定位方法[J]. 常俪琼,房鼎益,__陈晓江(通信作者)__,王举,汤战勇,聂卫科,刘晨.计算机学报,2016,39(05):1051-1066.  
-[2]一种代码碎片化的Android应用程序防二次打包方法[J].樊如霞,房鼎益,汤战勇（通信作者）,__陈晓江__,刘方圆,李政桥.小型微型计算机系统,2016,37(9):1969-1974. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
-[3]一种基于混合深度置信模型的面部表情识别方法[J].杨雨浓,房鼎益,王洪.西南大学学报(自然科学版),2016-06-20.  
-[4]一种具有指令集随机化的代码虚拟化保护系统[J].汤战勇,李光辉,房鼎益,__陈晓江__.华中科技大学学报(自然科学版),2016,44(3):28-33.  
-[5]基于语义的二进制代码自动化反混淆方法[J].郭军,王蕾,汤战勇,房鼎益.华中科技大学学报(自然科学版),2016,44(3):55-59.  
-[6]基于进程级虚拟机的软件防篡改方法[J].汤战勇,郝朝辉,房鼎益,__陈晓江__.华中科技大学学报(自然科学版),2016,44(3):65-70.  
-[7]基于Niederreiter密码的签密方案[J].韩益亮,李冲,房鼎益,杨晓元.四川大学学报(工程科学版),2016-02-29.  
+[1][website](http://cjc.ict.ac.cn/online/onlinepaper/clq-2016428101732.pdf)  一种有效消除环境噪声的被动式目标定位方法[J]. 常俪琼,房鼎益,__陈晓江(通信作者)__,王举,汤战勇,聂卫科,刘晨.计算机学报,2016,39(05):1051-1066.  
+[2][website](http://www.cqvip.com/qk/95659x/201609/669842369.html)  一种代码碎片化的Android应用程序防二次打包方法[J].樊如霞,房鼎益,汤战勇（通信作者）,__陈晓江__,刘方圆,李政桥.小型微型计算机系统,2016,37(9):1969-1974. （第一作者为汤战勇与科研团队负责人联合指导的硕士生）  
+[3][website](http://www.cqvip.com/qk/95549a/20166/669147774.html)  一种基于混合深度置信模型的面部表情识别方法[J].杨雨浓,房鼎益,王洪.西南大学学报(自然科学版),2016-06-20.  
+[4][website](http://www.cqvip.com/qk/90344a/201603/668195035.html)  一种具有指令集随机化的代码虚拟化保护系统[J].汤战勇,李光辉,房鼎益,__陈晓江__.华中科技大学学报(自然科学版),2016,44(3):28-33.  
+[5][website](http://www.cqvip.com/qk/90344a/201603/668195040.html)  基于语义的二进制代码自动化反混淆方法[J].郭军,王蕾,汤战勇,房鼎益.华中科技大学学报(自然科学版),2016,44(3):55-59.  
+[6][website](http://www.cqvip.com/qk/90344x/201603/668195042.html)  基于进程级虚拟机的软件防篡改方法[J].汤战勇,郝朝辉,房鼎益,__陈晓江__.华中科技大学学报(自然科学版),2016,44(3):65-70.  
+[7][website](http://www.cqvip.com/qk/90462a/201602/668292342.html)  基于Niederreiter密码的签密方案[J].韩益亮,李冲,房鼎益,杨晓元.四川大学学报(工程科学版),2016-02-29.  
