@@ -67,7 +67,7 @@ redirect_from:
 2021  
 1 相关代表性国际会议  
 [1][NSDI’21](https://www.usenix.org/conference/nsdi21/presentation/chen)  Pushing the Physical Limits of IoT Devices with Programmable Metasurface.Lili Chen, Wenjun Hu, Kyle Jamieson, __Xiaojiang Chen__, Dingyi Fang, Jeremy Gummeson.  
-[2][MOBICOM’21](https://dl.acm.org/doi/abs/10.1145/3447993.3483238)  RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing. Chao Feng, Xinyi Li, Yangfan Zhang, XiaoJing Wang, LiQiong Chang, FuWei Wang, Xinyu Zhang, __Xiaojiang Chen*__（通信作者）.  
+[2][MOBICOM’21](https://dl.acm.org/doi/abs/10.1145/3447993.3483238)  RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing. Chao Feng, Xinyi Li, Yangfan Zhang, XiaoJing Wang, LiQiong Chang, FuWei Wang, Xinyu Zhang, **Xiaojiang Chen***（通信作者）.  
 [3][MOBICOM’21](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)  RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments. Shuangjiao Zhai, Zhanyong Tang*, Petteri Nurmi, Dingyi Fang, __Xiaojiang Chen__, Zheng Wang*.  
 [4][UbiComp’21](https://dl.acm.org/doi/abs/10.1145/3448100)  CrossGR: Accurate and Low-cost Cross-target Gesture Recognition Using Wi-Fi. Xinyi Li, Liqiong Chang*, Fangfang Song, Ju Wang, __Xiaojiang Chen__, Zhanyong Tang, Zheng Wang.  
 [5][UbiComp’21](https://dl.acm.org/doi/abs/10.1145/3448101)  RF-Identity: Non-Intrusive Person Identification Based On Commodity RFID Devices. Feng Chao, Xiong Jie, Chang Liqiong, Wang Fuwei*, Wang Ju, Fang Dingyi.  
