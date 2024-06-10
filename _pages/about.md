@@ -12,7 +12,7 @@ redirect_from:
 [2] [MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649344)  RFMagus: Programming the Radio Environment With Networked Metasurfaces. Xinyi Li, Gaoteng Zhao, Ling Chen, Xinyu Zhang, Ju Ren. AR=48/207. (CCF推荐A类会议)  
 [3] [MobiCom’24](https://dl.acm.org/doi/abs/10.1145/3636534.3649346)  Pushing Wireless Charging from Station to Travel. Lili Chen, Bozhong Yu, Yongjian Fu, Ju Ren, Hao Pan, Jeremy Gummeson, Yaoxue Zhang. AR=48/207. (CCF推荐A类会议)  
 [4] [MobiCom’24] Gastag: A Gas Sensing Paradigm using Metamaterial  Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  __Xiaojiang Chen__*(通信作者). (Mobicom'24, 条件接收，还没有正式发表, CCF推荐A类国际会议).  
-[5] [ICSE’24](https://dl.acm.org/doi/abs/10.1145/3597503.3639212) Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction.Huanting Wang, Zhanyong Tang*（共同通信作者）, Shin Hwei Tan, Jie Wang, Yuzhe Liu, Hejun Fang, Chunwei Xia, Zheng Wang*（共同通信作者）.(CCF推荐A类会议)  
+[5] [ICSE’24](https://dl.acm.org/doi/abs/10.1145/3597503.3639212)  Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction.Huanting Wang, Zhanyong Tang*（共同通信作者）, Shin Hwei Tan, Jie Wang, Yuzhe Liu, Hejun Fang, Chunwei Xia, Zheng Wang*（共同通信作者）.(CCF推荐A类会议)  
   
 2 相关代表期刊文章  
 [1]  [website](https://ieeexplore.ieee.org/abstract/document/10036978/)  CARING: Towards Collaborative and Cross-domain Wi-Fi Sensing. Xinyi Li, Fengyi Song, Mina Luo, Kang Li, Liqiong Chang, __Xiaojiang Chen__*（通信作者）, Zheng Wang. IEEE Transactions on Mobile Computing, vol. 23, no. 2 PP.1674-1688, 2024. （TMC CCF A）  
