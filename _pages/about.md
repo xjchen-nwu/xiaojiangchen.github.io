@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-2024  
+2025    
 [1] [NSDI’24] Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, Xiaojiang Chen, Yaxiong Xie. (CCF 推荐A类会议)（目前只是接收状态，还没有正式发表）
 [2] [MobiCom’24] RFMagus: Programming the Radio Environment With Networked Metasurfaces. Xinyi Li, Gaoteng Zhao, Ling Chen, Xinyu Zhang, Ju Ren. AR=48/207. (CCF推荐A类会议)
 [3] [MobiCom’24] Pushing Wireless Charging from Station to Travel. Lili Chen, Bozhong Yu, Yongjian Fu, Ju Ren, Hao Pan, Jeremy Gummeson, Yaoxue Zhang. AR=48/207. (CCF推荐A类会议)
