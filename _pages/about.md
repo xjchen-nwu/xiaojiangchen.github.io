@@ -20,7 +20,7 @@ redirect_from:
 [4][website](https://ieeexplore.ieee.org/abstract/document/10316644/)  Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices. Biyao Gong, Tianzhang Xing, Zhidan Liu, Wei Xi, and __Xiaojiang Chen__. 2024. (TMC CCF-A)       
 
 <font size=6>2023    </font>      
-<font size=5>1、 Conference   </font>     
+<br><font size=5>1、 Conference   </font>     
 [1][NSDI’23](https://www.usenix.org/conference/nsdi23/presentation/li-xinyi)  RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks. Xinyi Li, Chao Feng, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, __Xiaojiang Chen__*. (CCF-A)  
 [2][UbiComp’23](https://dl.acm.org/doi/abs/10.1145/3580859)  RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition. Xuan Wang, Tong Liu, Chao Feng, Dingyi Fang, __Xiaojiang Chen__*. (CCF-A)  
 [3][MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596834)  BioScatter: Low Power Sweat Sensing with Backscatter. Wenli Jiao, Yanlin Li, Xiangdong Xi, Ju Wang*, Dingyi Fang, __Xiaojiang Chen__. (CCF-B)  
