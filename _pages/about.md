@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 2024  
-[1][NSDI’24](https://www.usenix.org/conference/nsdi24/presentation/li-liyao)Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, __Xiaojiang Chen__, Yaxiong Xie. (CCF-A)(Currently it is just in the receiving state and has not been officially published)  
-[2][MobiCom’24] (https://dl.acm.org/doi/10.1145/3636534.3649365)Gastag: A Gas Sensing Paradigm using Metamaterial  Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  __Xiaojiang Chen__*. (Mobicom'24, Currently it is just in the receiving state and has not been officially published, CCF-A).  
+[1][NSDI’24](https://www.usenix.org/conference/nsdi24/presentation/li-liyao)Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, __Xiaojiang Chen__, Yaxiong Xie. (CCF-A)   
+[2][MobiCom’24](https://dl.acm.org/doi/10.1145/3636534.3649365)Gastag: A Gas Sensing Paradigm using Metamaterial  Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  __Xiaojiang Chen__*. (Mobicom'24, CCF-A).   
 2 相关代表期刊文章  
 [1][website](https://ieeexplore.ieee.org/abstract/document/10036978/)  CARING: Towards Collaborative and Cross-domain Wi-Fi Sensing. Xinyi Li, Fengyi Song, Mina Luo, Kang Li, Liqiong Chang, __Xiaojiang Chen__*, Zheng Wang. IEEE Transactions on Mobile Computing, vol. 23, no. 2 PP.1674-1688, 2024. (TMC CCF-A)  
 [2][website](https://ieeexplore.ieee.org/abstract/document/10283475/)  Eliminating design effort: A reconfigurable sensing framework for chipless, backscatter tags. Wenli Jiao, Ju Wang*, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang,  __Xiaojiang Chen__*. 2024 (TONCCF-A).  
