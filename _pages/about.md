@@ -56,7 +56,8 @@ redirect_from:
 2 相关代表期刊文章  
 [1][website](https://dl.acm.org/doi/abs/10.1145/3407899)  dWatch: A Reliable and Low-Power Drowsiness Detection System for Drivers Based on Mobile Devices. Tianzhang Xing, Qing Wang, Chase Q. Wu, Wei Xi, __Xiaojiang Chen__*. ACM Transactions on Sensor Networks  16(4): 37:1-37:22, 2020. (TOSN，CCF-B)  
 [2][website](https://www.sciencedirect.com/science/article/pii/S0167404820300936)  Compile-time code virtualization for Android applications. Yujie Zhao, Zhanyong Tang*, Guixin Ye, Dongxu Peng, Dingyi Fang, __Xiaojiang Chen__, Zheng Wang. 94:101821, 2020 (CCF-B)  
-[3][website](https://www.sciencedirect.com/science/article/pii/S016740482030345X)  Semantics-aware obfuscation scheme prediction for binary. Yujie Zhao, Zhanyong Tang*, Guixin Ye, Dongxu Peng, Dingyi Fang, __Xiaojiang Chen__, Zheng Wang.99: 102072, 2020 (CCF-B) [4][website](https://dl.acm.org/doi/abs/10.1145/3378446)  Using Generative Adversarial Networks to Break and Protect Text Captchas. Guixin Ye, Zhanyong Tang*, Dingyi Fang, Zhanxing Zhu, Yansong Feng, Pengfei Xu, __Xiaojiang Chen__, JunGong Han, Zheng Wang*. ACM Transactions on Privacy and Security, 2020, 23(2): 1-29. (CCF-B)  
+[3][website](https://www.sciencedirect.com/science/article/pii/S016740482030345X)  Semantics-aware obfuscation scheme prediction for binary. Yujie Zhao, Zhanyong Tang*, Guixin Ye, Dongxu Peng, Dingyi Fang, __Xiaojiang Chen__, Zheng Wang.99: 102072, 2020 (CCF-B)    
+[4][website](https://dl.acm.org/doi/abs/10.1145/3378446)  Using Generative Adversarial Networks to Break and Protect Text Captchas. Guixin Ye, Zhanyong Tang*, Dingyi Fang, Zhanxing Zhu, Yansong Feng, Pengfei Xu, __Xiaojiang Chen__, JunGong Han, Zheng Wang*. ACM Transactions on Privacy and Security, 2020, 23(2): 1-29. (CCF-B)  
   
 2019  
 1 相关代表性会议  
