@@ -10,7 +10,7 @@ redirect_from:
 
 <font size=6>2024     </font>        
 
-<font size=5>1、 Conference  </font>     
+<br><font size=5>1、 Conference  </font>     
 [1][NSDI’24](https://www.usenix.org/conference/nsdi24/presentation/li-liyao)Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, __Xiaojiang Chen__, Yaxiong Xie. (CCF-A)   
 [2][MobiCom’24](https://dl.acm.org/doi/10.1145/3636534.3649365)Gastag: A Gas Sensing Paradigm using Metamaterial  Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  __Xiaojiang Chen__*. (Mobicom'24, CCF-A).   
 <font size=5>2、Journal   </font>     
@@ -30,7 +30,7 @@ redirect_from:
 [2][website](https://ieeexplore.ieee.org/abstract/document/9661322/)  A Comprehensive Survey of Scene Graphs: Generation and Application. Xiaojun Chang, Pengzhen Ren, Pengfei Xu, Zhihui Li, __Xiaojiang Chen__,  Alex Hauptmann.  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023, 45(1): 1-26. TPAMI(CCF-A).  
 
 <font size=6>2022   </font>    
-<font size=5>1、 Conference   </font>        
+<br><font size=5>1、 Conference   </font>        
 [1][MobiCom’22](https://dl.acm.org/doi/abs/10.1145/3495243.3560547)  Protego: Securing Wireless Communication via Programmable  Metasurface. Xinyi Li，Chao Feng，Fengyi Song，Chenghan Jiang，Yangfan Zhang，Ke Li，Xinyu Zhang,__Xiaojiang Chen__*(CCF-A)  
 [2][MobiCom’22](https://dl.acm.org/doi/abs/10.1145/3495243.3560532)  SmartLens: Sensing Eye Activities Using Zero-power Contact Lens. Liyao Li, Yaxiong Xie, Jie Xiong, Ziyu Hou, Yingchun Zhang, Qing We, Fuwei Wang, Dingyi Fang, __Xiaojiang Chen__* (CCF-A)  
 [3][UbiComp’22](https://dl.acm.org/doi/abs/10.1145/3550318)  Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition. Chao Feng, Nan Wang，Yicheng Jiang，Xia Zheng，Kang Li*，Zheng Wang，__Xiaojiang Chen__*(CCF-A)  
@@ -40,7 +40,7 @@ redirect_from:
 [1][website](https://dl.acm.org/doi/abs/10.1145/3551640)  Akte-Liquid: Acoustic-Based Liquid Identification with Smartphones. Xue Sun, Wenwen Deng, Xudong Wei, Dingyi Fang, Baochun Li , __Xiaojiang Chen__*. ACM Transactions on Sensor Networks, 1(1) :1-24, 2022. (TOSN，CCF-B)  
 
 <font size=6>2021   </font>    
-<font size=5>1、 Conference   </font>            
+<br><font size=5>1、 Conference   </font>            
 [1][NSDI’21](https://www.usenix.org/conference/nsdi21/presentation/chen)  Pushing the Physical Limits of IoT Devices with Programmable Metasurface.Lili Chen, Wenjun Hu, Kyle Jamieson, __Xiaojiang Chen__, Dingyi Fang, Jeremy Gummeson.  
 [2][MOBICOM’21](https://dl.acm.org/doi/abs/10.1145/3447993.3483238)  RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing. Chao Feng, Xinyi Li, Yangfan Zhang, XiaoJing Wang, LiQiong Chang, FuWei Wang, Xinyu Zhang, __Xiaojiang Chen__*.  
 [3][MOBICOM’21](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)  RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments. Shuangjiao Zhai, Zhanyong Tang*, Petteri Nurmi, Dingyi Fang, __Xiaojiang Chen__, Zheng Wang*.  
@@ -55,7 +55,7 @@ redirect_from:
 [6][website](https://ieeexplore.ieee.org/abstract/document/8863040/)  Simultaneous Material Identification and Target Imaging with Commodity RFID Devices. Ju Wang, Jie Xiong, __Xiaojiang Chen__*, Hongbo Jiang, Rajesh Krishna Balan, Dingyi Fang. IEEE Transactions on Mobile Computing, vol. 20, no. 2 PP.739-753, 2021. (TMC CCF A).  
 
 <font size=6>2020   </font>    
-<font size=5>1、 Conference   </font>       
+<br><font size=5>1、 Conference   </font>       
 [1][AAAI’20](https://aaai.org/ojs/index.php/AAAI/article/view/6075)  Robust Self-weighted Multi-view Projection Clustering.The Thirty-Forth AAAI Conference on Artificial Intelligence. Beilei Wang, Yun Xiao*, Zhihui Li*, XuanhongWang, __Xiaojiang Chen__, Dingyi Fang. AAAI 2020: 6110-6117.  
 [2][SenSys’20](https://dl.acm.org/doi/abs/10.1145/3384419.3430771)  Exploring commodity RFID for contactless sub-millimeter vibration sensing. Binbin Xie, Jie Xiong, __Xiaojiang Chen__, Dingyi Fang. (CCF-B)  
 <font size=5>2、Journal   </font>         
@@ -65,7 +65,7 @@ redirect_from:
 [4][website](https://dl.acm.org/doi/abs/10.1145/3378446)  Using Generative Adversarial Networks to Break and Protect Text Captchas. Guixin Ye, Zhanyong Tang*, Dingyi Fang, Zhanxing Zhu, Yansong Feng, Pengfei Xu, __Xiaojiang Chen__, JunGong Han, Zheng Wang*. ACM Transactions on Privacy and Security, 2020, 23(2): 1-29. (CCF-B)  
 
 <font size=6>2019  </font>      
-<font size=5>1、 Conference   </font>         
+<br><font size=5>1、 Conference   </font>         
 [1][AAAI’19](https://aaai.org/ojs/index.php/AAAI/article/view/4489)  RS3CIS: Robust Single-Step Spectral Clustering with Intrinsic Subspace. Yun Xiao, Pengzhen Ren, Zhihui Li*, __Xiaojiang Chen__, Xin Wang, Dingyi Fang. 2019: 5482-5489.  
 [2][UbiComp’19](https://dl.acm.org/doi/abs/10.1145/3351237)  LungTrack: Towards Contactless and Zero Dead-Zone Respiration Monitoring with Commodity RFIDs. Lili Chen ,Jie Xiong, __Xiaojiang Chen__*, Sunghoon Ivan Lee, Tao Yan, Dingyi Fang.  
 [3][UbiComp’19](https://dl.acm.org/doi/abs/10.1145/3351254)  Beyond Respiration: Contactless Sleep Sound Activity Recognition Using RF Signals. Chen Liu, Jie Xiong, Lin Cai, Lin Feng, __Xiaojiang Chen__, Dingyi Fang.  
@@ -79,7 +79,7 @@ redirect_from:
 [4][website](https://dl.acm.org/doi/abs/10.1145/3117811.3117828)  FlipTracer: Practical Parallel Decoding for Backscatter Communication. Meng Jin, Yuan He*, Xin Meng, Yilun Zheng, Dingyi Fang*, __Xiaojiang Chen__. IEEE/ACM Transactions on Networking, 27(1): 330-343, 2019. (TON，CCF-A).  
 
 <font size=6>2018  </font>     
-<font size=5>1、 Conference   </font>       
+<br><font size=5>1、 Conference   </font>       
 [1][Mobicom’18](https://dl.acm.org/doi/abs/10.1145/3241539.3241544)  Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You. Meng Jin, Yuan He, Xin Meng, Dingyi Fang, __Xiaojiang Chen__.  
 [2][Ubicomp’18](https://dl.acm.org/doi/abs/10.1145/3161191)  RF-Copybook: A Millimeter Level Calligraphy Copybook based on commodity RFID. Liqiong Chang, Jie Xiong, Ju Wang, __Xiaojiang Chen__*, Yu Wang, Zhanyong Tang,Dingyi Fang . Proc. ACM Interact. Mob. Wearable Ubiquitous Technol/ IMWUT 1(4). 128:1-128:19.  
 [3][UbiComp’18](https://dl.acm.org/doi/abs/10.1145/3264908)  SleepGuard: Capturing Rich Sleep Information Using Smartwatch Sensing Data. Liqiong Chang, Jiaqi Lu, Ju Wang, __Xiaojiang Chen__*, Dingyi Fang, Zhanyong Tang, Petteri Nurmi, Zheng Wang*.  
@@ -105,7 +105,7 @@ redirect_from:
 [12][website](https://www.sciencedirect.com/science/article/pii/S1389128618309708)  Enabling robust and reliable transmission in Internet of Things with multiple gateways. Dan Xu, Wenli Jiao, Zhuang Yin, Bin Wu, Yao Peng, __Xiaojiang Chen__*, Feng Chen, Dingyi Fang. Computer Networks, 146:183-199 ,2018. (CN CCF-B)  
 
 <font size=6>2017   </font>     
-<font size=5>1、 Conference   </font>       
+<br><font size=5>1、 Conference   </font>       
 [1][Mobicom’17](https://dl.acm.org/doi/abs/10.1145/3117811.3117830)  TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices. Ju Wang, Jie Xiong, __Xiaojiang Chen__*, Hongbo Jiang, Rajesh Krishna Balan, Dingyi Fang*.  
 [2][MobiCom’17](https://dl.acm.org/doi/abs/10.1145/3117811.3117828)  FlipTracer: Practical Parallel Decoding for Backscatter Communication. Meng Jin, Yuan He, Xin Meng, Yilun Zheng, Dingyi Fang and __Xiaojiang Chen__.  
 [3][INFOCOM’17](https://ieeexplore.ieee.org/abstract/document/8269825/)  iGuard: A Real-Time Anti-Theft System for Smartphones. Meng jin, He yuan, Dingyi Fang, __Xiaojiang Chen__, Xin Meng, Tianzhang Xing. IEEE INFOCOM 2017-IEEE Conference on Computer Communications. IEEE INFOCOM 2017 - IEEE Conference on Computer Communications. 2017: 1-9.  
@@ -120,7 +120,7 @@ redirect_from:
 [6][website](https://ieeexplore.ieee.org/abstract/document/7469386/)  E-HIPA: An Energy-Efficient Framework for High-Precision Multi-Target-Adaptive Device-Free Localization. Ju Wang, Dingyi Fang, Zhe Yang, Hongbo Jiang, __Xiaojiang Chen__*, Tianzhang Xing, Lin Cai. IEEE Transactions on Mobile Computing.16(3): 716-729, 2017. (CCF-A).  
 
 <font size=6>2016  </font>     
-<font size=5>1、 Conference    </font>      
+<br><font size=5>1、 Conference    </font>      
 [1][Mobicom’16](https://dl.acm.org/doi/abs/10.1145/2973750.2973776)  LiFS: Low Human-Effort, Device-Free Localization with Fine-grained Subcarrier Information. Ju Wang, Hongbo Jiang*, Jie Xiong, Kyle Jamieson, __Xiaojiang Chen__*, Dingyi Fang, Binbin Xie.  
 [2][Infocom’16](https://ieeexplore.ieee.org/abstract/document/7524335/)  DualSync: Taming Clock Skew Variation for Synchronization in Low-Power Wireless Networks. Jin meng, xing tianzhang, __Xiaojiang Chen__, Xin meng, Dingyi fang,Yuan He.  
 [3][Infocom’16](https://ieeexplore.ieee.org/abstract/document/7880657/)  FitLoc: Fine-grained and Low-cost Device-free Localization for Multiple Targets over Various Areas. Liqiong Chang, __Xiaojiang Chen__*, Yu Wang, Dingyi Fang*, Ju Wang, Tianzhang Xing, Zhanyong Tang.  
