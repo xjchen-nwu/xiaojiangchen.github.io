@@ -14,9 +14,9 @@ redirect_from:
 2、Journal     
 [1][website](https://ieeexplore.ieee.org/abstract/document/10036978/)  CARING: Towards Collaborative and Cross-domain Wi-Fi Sensing. Xinyi Li, Fengyi Song, Mina Luo, Kang Li, Liqiong Chang, __Xiaojiang Chen__*, Zheng Wang. IEEE Transactions on Mobile Computing, vol. 23, no. 2 PP.1674-1688, 2024. (TMC CCF-A)  
 [2][website](https://ieeexplore.ieee.org/abstract/document/10283475/)  Eliminating design effort: A reconfigurable sensing framework for chipless, backscatter tags. Wenli Jiao, Ju Wang*, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang,  __Xiaojiang Chen__*. 2024 (TONCCF-A).  
-[3][website](https://ieeexplore.ieee.org/abstract/document/10411052/)  DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI.Ying Liang , Wenjie Wu , Haobo Li , Xiaojun Chang , __Xiaojiang Chen__ , Jinye Peng, and Pengfei Xu*. IEEE Transactions on Information Forensics and Security，19:2997-3007,2024.(CCF-A)  
-[4][website](https://ieeexplore.ieee.org/abstract/document/10316644/)  Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices. Biyao Gong, Tianzhang Xing, Zhidan Liu, Wei Xi, and __Xiaojiang Chen__. 2024. (TMC CCF-A) 
-2023  
+[3][website](https://ieeexplore.ieee.org/abstract/document/10411052/)  DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI.Ying Liang , Wenjie Wu , Haobo Li , Xiaojun Chang , __Xiaojiang Chen__ , Jinye Peng, and Pengfei Xu*. IEEE Transactions on Information Forensics and Security，19:2997-3007,2024.(CCF-A) 
+[4][website](https://ieeexplore.ieee.org/abstract/document/10316644/)  Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices. Biyao Gong, Tianzhang Xing, Zhidan Liu, Wei Xi, and __Xiaojiang Chen__. 2024. (TMC CCF-A)       
+2023    
 1、 Conference   
 [1][NSDI’23](https://www.usenix.org/conference/nsdi23/presentation/li-xinyi)  RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks. Xinyi Li, Chao Feng, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, __Xiaojiang Chen__*. (CCF-A)  
 [2][UbiComp’23](https://dl.acm.org/doi/abs/10.1145/3580859)  RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition. Xuan Wang, Tong Liu, Chao Feng, Dingyi Fang, __Xiaojiang Chen__*. (CCF-A)  
