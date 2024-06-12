@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
-  northwestuniversity         : "https://ist.nwu.edu.cn/"
+  northwestuniversity         : https://ist.nwu.edu.cn/
   uri              : # URL
   email            : #"none@example.org" 
 
