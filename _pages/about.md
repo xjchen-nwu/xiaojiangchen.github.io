@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<font size=3>__2024__  </font>
+<font size=3>__2024__    </font>    
 <font size=4>1、 Conference</font>   
 [1][NSDI’24](https://www.usenix.org/conference/nsdi24/presentation/li-liyao)Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens. Liyao Li, Bozhao Shang, Yun Wu, Jie Xiong, __Xiaojiang Chen__, Yaxiong Xie. (CCF-A)   
 [2][MobiCom’24](https://dl.acm.org/doi/10.1145/3636534.3649365)Gastag: A Gas Sensing Paradigm using Metamaterial  Tags. Xue Sun  Jie Xiong, Chao Feng,  Xiaohui Li,  Jiayi Zhang, Binghao Li, Dingyi Fang,  __Xiaojiang Chen__*. (Mobicom'24, CCF-A).   
@@ -110,7 +110,7 @@ redirect_from:
 [3][INFOCOM’17](https://ieeexplore.ieee.org/abstract/document/8269825/)  iGuard: A Real-Time Anti-Theft System for Smartphones. Meng jin, He yuan, Dingyi Fang, __Xiaojiang Chen__, Xin Meng, Tianzhang Xing. IEEE INFOCOM 2017-IEEE Conference on Computer Communications. IEEE INFOCOM 2017 - IEEE Conference on Computer Communications. 2017: 1-9.  
 [4][ICDCS’17](https://ieeexplore.ieee.org/abstract/document/7980032/)  iUpdater: Low-Cost RSS Fingerprints Updating for Device-Free Localization. Liqiong Chang, Jie Xiong, Yu Wang, __Xiaojiang Chen__, Junhao Hu, Dingyi Fang. (CCF-B)  
 [5][NDSS’17](https://eprints.whiterose.ac.uk/151222/)  Cracking Android Pattern Lock in Five Attempts. Guixin Ye,Zhanyong Tang*,Dingyi Fang ,__Xiaojiang Chen__ ,Kwang InKim,Ben Taylor,Zheng Wang*. (CCF-B)  
-<font size=4>2、Journal</font>    
+<font size=4>2、Journal   </font>    
 [1][website](https://ieeexplore.ieee.org/abstract/document/7880657/)  FitLoc: Fine-grained and Low-cost Device-free Localization for Multiple Targets over Various Areas. Liqiong Chang, __Xiaojiang Chen__*, Yu Wang, Dingyi Fang*, Ju Wang, Tianzhang Xing, Zhanyong Tang. IEEE/ACM Transactions on Networking, vol. 25, no. 4 pp. 1994-2007, 2017. (TON，CCF-A)  
 [2][website](https://dl.acm.org/doi/abs/10.1145/2999572.2999589)  D-Watch: Embracing “bad” Multipaths for Device-Free Localization with COTS RFID Devices. Ju Wang, Jie Xiong, Hongbo Jiang*, __Xiaojiang Chen__*, Dingyi Fang. IEEE/ACM Transactions on Networking, vol. 25, no. 6, pp. 3559-3572, 2017. (TON，CCF-A)  
 [3][website](https://ieeexplore.ieee.org/abstract/document/7469386/)  E-HIPA: An Energy-Efficient Framework for High-Precision Multi-Target-Adaptive Device-Free Localization. Ju Wang, Dingyi Fang, Zhe Yang, Hongbo Jiang, __Xiaojiang Chen__*, Tianzhang Xing, Lin Cai. IEEE Transactions on Mobile Computing.16(3): 716-729, 2017. (TMC CCF-A)  
