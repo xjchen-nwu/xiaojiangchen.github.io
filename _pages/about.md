@@ -16,6 +16,7 @@ redirect_from:
 [2][website](https://ieeexplore.ieee.org/abstract/document/10283475/)  Eliminating design effort: A reconfigurable sensing framework for chipless, backscatter tags. Wenli Jiao, Ju Wang*, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang,  __Xiaojiang Chen__*. 2024 (TONCCF-A).  
 [3][website](https://ieeexplore.ieee.org/abstract/document/10411052/)  DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI.Ying Liang , Wenjie Wu , Haobo Li , Xiaojun Chang , __Xiaojiang Chen__ , Jinye Peng, and Pengfei Xu*. IEEE Transactions on Information Forensics and Security，19:2997-3007,2024.(CCF-A) 
 [4][website](https://ieeexplore.ieee.org/abstract/document/10316644/)  Towards Hierarchical Clustered Federated Learning with Model Stability on Mobile Devices. Biyao Gong, Tianzhang Xing, Zhidan Liu, Wei Xi, and __Xiaojiang Chen__. 2024. (TMC CCF-A)       
+
 2023    
 1、 Conference   
 [1][NSDI’23](https://www.usenix.org/conference/nsdi23/presentation/li-xinyi)  RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks. Xinyi Li, Chao Feng, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, __Xiaojiang Chen__*. (CCF-A)  
@@ -35,6 +36,7 @@ redirect_from:
 [5][IPSN’22](https://ieeexplore.ieee.org/document/9825992)  Eliminating Design Effort: A Reconfigurable Sensing Framework For Chipless, Backscatter Tags. Wenli Jiao, Ju Wang*, Yelu He, Xiangdong Xi, Fuwei Wang, Dingyi Fang, __Xiaojiang Chen__*.  
 2、Journal    
 [1][website](https://dl.acm.org/doi/abs/10.1145/3551640)  Akte-Liquid: Acoustic-Based Liquid Identification with Smartphones. Xue Sun, Wenwen Deng, Xudong Wei, Dingyi Fang, Baochun Li , __Xiaojiang Chen__*. ACM Transactions on Sensor Networks, 1(1) :1-24, 2022. (TOSN，CCF-B)  
+
 2021  
 1、 Conference          
 [1][NSDI’21](https://www.usenix.org/conference/nsdi21/presentation/chen)  Pushing the Physical Limits of IoT Devices with Programmable Metasurface.Lili Chen, Wenjun Hu, Kyle Jamieson, __Xiaojiang Chen__, Dingyi Fang, Jeremy Gummeson.  
@@ -100,7 +102,6 @@ redirect_from:
 [11][website](https://www.sciencedirect.com/science/article/pii/S1389128618304857)  EasyGo: Low-cost and robust geographic opportunistic sensing routing in a strip topology wireless sensor network. Chen Liu, Dingyi Fang*, Yue Hu, Shensheng Tang, Dan Xu*,Wen Cui, __Xiaojiang Chen__, Baoying Liu, Guangquan Xu, Hao Chen. Computer Networks,143:191-205,2018. (CN CCF-B)  
 [12][website](https://www.sciencedirect.com/science/article/pii/S1389128618309708)  Enabling robust and reliable transmission in Internet of Things with multiple gateways. Dan Xu, Wenli Jiao, Zhuang Yin, Bin Wu, Yao Peng, __Xiaojiang Chen__*, Feng Chen, Dingyi Fang. Computer Networks, 146:183-199 ,2018. (CN CCF-B)  
   
-  
 2017  
 1、 Conference     
 [1][Mobicom’17](https://dl.acm.org/doi/abs/10.1145/3117811.3117830)  TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices. Ju Wang, Jie Xiong, __Xiaojiang Chen__*, Hongbo Jiang, Rajesh Krishna Balan, Dingyi Fang*.  
@@ -115,7 +116,6 @@ redirect_from:
 [4][website](https://ieeexplore.ieee.org/abstract/document/7902081/)  Unsupervised 2D Dimensionality Reduction with Adaptive Structure Learning. Xiaowei Zhao, Feiping Nie, Sen Wang, Jun Guo*, Pengfei Xu, __Xiaojiang Chen__. Neural Computation,29(5):1352-1374,2017. (CCF-B)  
 [5][website](https://ieeexplore.ieee.org/abstract/document/7880657/)  FitLoc: Fine-grained and Low-cost Device-free Localization for Multiple Targets over Various Areas. Liqiong Chang, __Xiaojiang Chen__*, Yu Wang, Dingyi Fang*, Ju Wang, Tianzhang Xing, Zhanyong Tang. IEEE/ACM Transactions on Networking, vol. 25, no. 4 pp. 1994-2007, 2017. (TON，CCF-A)  
 [6][website](https://ieeexplore.ieee.org/abstract/document/7469386/)  E-HIPA: An Energy-Efficient Framework for High-Precision Multi-Target-Adaptive Device-Free Localization. Ju Wang, Dingyi Fang, Zhe Yang, Hongbo Jiang, __Xiaojiang Chen__*, Tianzhang Xing, Lin Cai. IEEE Transactions on Mobile Computing.16(3): 716-729, 2017. (CCF-A).  
-  
   
 2016  
 1、 Conference    
