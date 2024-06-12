@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <font size=8>"publications"</font>
+title: <font size=8>publications</font>
 author_profile: true
 redirect_from: 
   - /about/
