@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Xiaojiang Chen"
 
 positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
+- logo: /assets/images/badges/northwest.png  # Logo is optional
   name: northwest university
 - name: China
 
@@ -34,7 +34,7 @@ portrait_caption: >-
 
 education:
 - name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/northwest.png
   position: B.S. in Computer Science
   date: Sep. 2017 - Jul. 2021
 
