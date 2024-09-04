@@ -1,11 +1,11 @@
-primary_name: "Your Name"
+primary_name: "Xiaojiang Chen"
 secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  name: northwest university
+- name: China
 
 
 email: "your@email.com"
