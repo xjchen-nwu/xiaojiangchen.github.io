@@ -1,11 +1,11 @@
 primary_name: "Xiaojiang Chen"
 secondary_name: ""
-navbar_name: "Xiaojiang Chen"
+navbar_name: "IoT"
 
 positions:
 - logo: /assets/images/badges/northwest.png  # Logo is optional
   name: northwest University
-- name: China
+- name: Xi'an, China
 
 
 email: "xjchen@nwu.edu.cn"
