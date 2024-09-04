@@ -1,17 +1,19 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks"
+date:           2023-04-17 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "NSDI '23"
 pub_date:       "2023"
 abstract: >-
-  Photo by Thomas Renaud on Unsplash. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-cover:          /assets/images/covers/cover1.jpg
+  Offloading the beamforming task from the endpoints to the metasurface installed in the propagation environment has attracted significant attention. Currently, most of the metasurface-based beamforming solutions are designed and optimized for operation on a single ISM band (either 2.4 GHz or 5 GHz). In this paper, we propose RF-Bouncer, a compact, low-cost, simple-structure programmable dual-band metasurface that supports concurrent beamforming on two Sub-6 ISM bands. By configuring the states of the meta-atoms, the metasurface is able to simultaneously steer the incident signals from two bands towards their desired departure angles. We fabricate the metasurface and validate its performance via extensive experiments. Experimental results demonstrate that RF-Bouncer achieves 15.4 dB average signal strength improvement and a 2.49× throughput improvement even with a relatively small 16 × 16 array of meta-atoms.
+cover:          /assets/images/covers/2023/RF-Bouncer.png
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Xinyi Li
+- Chao Feng
+- Xiaojing Wang
+- Yangfan Zhang
+- Yaxiong Xie (University at Buffalo SUNY)
+- Xiaojiang Chen*
 links:
-  Paper: https://www.cell.com
+  Paper: https://www.usenix.org/conference/nsdi23/presentation/li-xinyi
 ---
