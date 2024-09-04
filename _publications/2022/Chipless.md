@@ -14,7 +14,7 @@ authors:
   - Xiangdong Xi
   - Fuwei Wang
   - Dingyi Fang
-  - <strong>Xiaojiang Chen#</strong>
+  - <strong>Xiaojiang Chen</strong>#
 links:
   Weblink: https://ieeexplore.ieee.org/document/9825992
 ---
