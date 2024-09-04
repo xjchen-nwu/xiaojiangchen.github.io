@@ -15,6 +15,6 @@ authors:
 - Yaxiong Xie (University at Buffalo SUNY)
 - Xiaojiang Chen#
 links:
-  Paper: https://www.usenix.org/conference/nsdi23/presentation/li-xinyi
-  PDF: https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf
+  Presentation: https://www.usenix.org/conference/nsdi23/presentation/li-xinyi
+  Paper: https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf
 ---
