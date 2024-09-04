@@ -2,7 +2,7 @@
 title:          "Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens"
 date:           2024-04-16 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "NSDI’24 (CCF-A)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
