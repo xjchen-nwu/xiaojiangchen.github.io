@@ -10,12 +10,11 @@ cover:          /assets/images/covers/2023/Fusang.png
 authors:
   - Guorong He
   - Shaojie Chen
-  - Dan Xu*
+  - Dan Xu#
   - <strong>Xiaojiang Chen</strong>
   - Yaxiong Xie
   - Xinhuai Wang
   - Dingyi Fang
 links:
   Weblink: https://dl.acm.org/doi/abs/10.1145/3581791.3596849
-  code: https://github.com/OpenNISLab/Pro-Fusang.
 ---
