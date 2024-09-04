@@ -13,7 +13,7 @@ authors:
   - Xiangdong Xi
   - Ju Wang#
   - Dingyi Fang
-  - __Xiaojiang Chen__
+  - **Xiaojiang Chen**
 links:
   Weblink: https://dl.acm.org/doi/abs/10.1145/3581791.3596834
 ---
