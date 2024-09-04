@@ -16,4 +16,5 @@ authors:
 - Xiaojiang Chen#
 links:
   Paper: https://www.usenix.org/conference/nsdi23/presentation/li-xinyi
+  PDF: https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf
 ---
