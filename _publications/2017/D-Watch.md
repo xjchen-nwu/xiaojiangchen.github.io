@@ -10,7 +10,7 @@ cover:          /assets/images/covers/2017/d-watch.png
 authors:
   - Ju Wang
   - Jie Xiong
-  - Hongbo Jiang#
+  - Hongbo Jiang
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang 
 links:
