@@ -13,7 +13,7 @@ authors:
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
   - Xin Meng
-  -Tianzhang Xing
+  - Tianzhang Xing
 links:
   Weblink: https://doi.org/10.1109/INFOCOM.2017.8057021
 ---
