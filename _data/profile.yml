@@ -31,11 +31,11 @@ portrait_url: /assets/images/photos/Chen.png
 #portrait_caption: >-
  
 
-Research Interest:
+education:
 - name: northwest University
-  #logo: /assets/images/badges/northwest.png
-  #position: Vice Dean in the School of Information Science and Technology
-  #date: Sep. 2017 - Jul. 2021
+  logo: /assets/images/badges/northwest.png
+  position: Vice Dean in the School of Information Science and Technology
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
