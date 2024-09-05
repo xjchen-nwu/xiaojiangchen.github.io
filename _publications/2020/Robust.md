@@ -9,8 +9,8 @@ abstract: >-
 # cover:          /assets/images/covers/2020/crossgr.png
 authors:
   - Beilei Wang
-  - Yun Xiao#
-  - Zhihui Li#
+  - Yun Xiao
+  - Zhihui Li
   - XuanhongWang 
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang
