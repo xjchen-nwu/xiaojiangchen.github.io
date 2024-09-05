@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/2021/running.png
 authors:
   - Meng Jin
-  - Yuan He#
+  - Yuan He
   - Xin Meng
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
