@@ -11,8 +11,8 @@ authors:
   - Lili Chen
   - Jie Xiong
   - <strong>Xiaojiang Chen</strong>
-  -Sunghoon Ivan Lee 
-  -Tao Yan
+  - Sunghoon Ivan Lee 
+  - Tao Yan
   - Dingyi Fang
 links:
   Paper: https://hal.science/hal-02321058v1/preview/1-LungTrack.pdf
