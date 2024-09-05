@@ -13,7 +13,7 @@ authors:
   - Tong Liu
   - Chao Feng
   - Dingyi Fang
-  - Xiaojiang Chen#
+  - Xiaojiang Chen
 links:
   Weblink: https://dl.acm.org/doi/abs/10.1145/3580859
 ---
