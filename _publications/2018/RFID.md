@@ -6,7 +6,7 @@ pub:            "PerCom’18  (CCF-B)"
 pub_date:       "2018"
 abstract: >-
   RFID-based positioning is emerging as a promising solution for inventory management in places like warehouses and libraries. However, existing solutions either are too sensitive to the environmental noise, or require deploying a large number of reference tags which incur expensive deployment cost and increase the chance of data collisions. This paper presents CSRP, a novel RFID based positioning system, which is highly accurate and robust to environmental noise, but relies on much less reference tags compared with the state-of-the-art. CSRP achieves this by employing an noise-resilient RFID fingerprint scheme and a compressive sensing based algorithm that can recover the target tag's position using a small number of signal measurements. This work provides a set of new analysis, algorithms and heuristics to guide the deployment of reference tags and to optimize the computational overhead. We evaluate CSRP in a deployment site with 270 commercial RFID tags. Experimental results show that CSRP can correctly identify 84.7% of the test items, achieving an accuracy that is comparable to the state-of-the-art, using an order of magnitude less reference tags.
-cover:          RFID.png
+cover:          /assets/images/covers/2018/RFID.png
 authors:
   - Liqiong Chang
   - Xinyi li
