@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/2018/max.png
 authors:
   - Meng Jin
-  - Yuan He#
+  - Yuan He
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
   - Tianzheng Xing
