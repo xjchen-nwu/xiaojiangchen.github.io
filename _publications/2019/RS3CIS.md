@@ -10,7 +10,7 @@ abstract: >-
 authors:
   - Yun Xiao
   - Pengzhen Ren
-  - Zhihui Li#
+  - Zhihui Li
   - <strong>Xiaojiang Chen</strong>
   - Xin Wang
   - Dingyi Fang
