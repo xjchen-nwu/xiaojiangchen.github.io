@@ -31,10 +31,10 @@ portrait_url: /assets/images/photos/Chen.png
 #portrait_caption: >-
  
 
-education:
-- name: northwest University
-  logo: /assets/images/badges/northwest.png
-  position: Vice Dean in the School of Information Science and Technology
+Research Interest:
+- name: My research interests include the design and experimental analysis of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and terahertz networks, Internet of Things, robotic wireless networks, and wireless security. On these topics, my lab’s research spans from theoretical analysis and modeling to hardware implementations and experimental evaluations.
+  #logo: /assets/images/badges/northwest.png
+  #position: Vice Dean in the School of Information Science and Technology
   #date: Sep. 2017 - Jul. 2021
 
 # experience:
