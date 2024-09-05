@@ -10,7 +10,7 @@ cover:          /assets/images/covers/2021/sim.png
 authors:
   - Ju Wang
   - Jie Xiong
-  - <strong>Xiaojiang Chen</strong>#
+  - <strong>Xiaojiang Chen</strong>
   - Hongbo Jiang
   - Rajesh Krishna Balan
   - Dingyi Fang
