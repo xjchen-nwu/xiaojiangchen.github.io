@@ -22,10 +22,10 @@ email: "xjchen@nwu.edu.cn"
 short_bio: >-
   <p>
     Professor
-    - name: School of Information Science&Technologe
   </p>
+  - name: School of Information Science&Technologe
    <p>
-    <strong>Research Interest</strong>
+    <strong>Research Interest:</strong>
   </p>
    <p>
       My research interests include the design and experimental analysis of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and terahertz networks, the Internet of Things, robotic wireless networks, and wireless security. On these topics, my lab’s research spans from theoretical analysis and modeling to hardware implementations and experimental evaluations.
