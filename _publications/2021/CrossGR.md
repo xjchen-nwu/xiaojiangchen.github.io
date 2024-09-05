@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/2021/crossgr.png
 authors:
   - Xinyi Li
-  - Liqiong Chang#
+  - Liqiong Chang
   - Fangfang Song
   - Ju Wang 
   - <strong>Xiaojiang Chen</strong>
