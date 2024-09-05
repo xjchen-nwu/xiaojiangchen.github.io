@@ -9,12 +9,12 @@ abstract: >-
 cover:          /assets/images/covers/2022/elimate.png
 authors:
   - Wenli Jiao
-  - Ju Wang#
+  - Ju Wang
   - Yelu He
   - Xiangdong Xi
   - Fuwei Wang
   - Dingyi Fang
-  - <strong>Xiaojiang Chen</strong>#
+  - <strong>Xiaojiang Chen</strong>
 links:
   Paper: https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a298/962400a298.pdf
   Weblink: https://ieeexplore.ieee.org/document/9825992
