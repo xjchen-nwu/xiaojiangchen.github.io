@@ -10,7 +10,7 @@ cover:          /assets/images/covers/2023/Fusang.png
 authors:
   - Guorong He
   - Shaojie Chen
-  - Dan Xu#
+  - Dan Xu
   - <strong>Xiaojiang Chen</strong>
   - Yaxiong Xie
   - Xinhuai Wang
