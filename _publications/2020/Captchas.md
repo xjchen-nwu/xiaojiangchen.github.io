@@ -9,14 +9,14 @@ abstract: >-
 cover:          /assets/images/covers/2020/6.png
 authors:
   - Guixin Ye
-  - Zhanyong Tang#
+  - Zhanyong Tang
   - Dingyi Fang
   - Zhanxing Zhu
   - Yansong Feng
   - Pengfei Xu 
   - <strong>Xiaojiang Chen</strong>
   - JunGong Han
-  - Zheng Wang#
+  - Zheng Wang
 links:
   Paper: https://eprints.whiterose.ac.uk/156512/1/TOPS-2019-06-0079-R1.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3378446
