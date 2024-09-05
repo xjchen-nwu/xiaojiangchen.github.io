@@ -10,8 +10,8 @@ cover:          /assets/images/covers/2021/2104.png
 authors:
   - Xiaojun Chang
   - Pengzhen Ren
-  - Pengfei Xu#
-  - Zhihui Li#
+  - Pengfei Xu
+  - Zhihui Li
   - <strong>Xiaojiang Chen</strong>
   - Alexander G. Hauptmann
 links:
