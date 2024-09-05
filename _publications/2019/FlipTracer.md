@@ -12,7 +12,7 @@ authors:
   - Yuan He
   - Xin Meng
   - Yilun Zheng
-  - Dingyi Fang#
+  - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
 links:
   Weblink: https://ieeexplore.ieee.org/document/8610187
