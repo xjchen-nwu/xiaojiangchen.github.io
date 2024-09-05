@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/2018/iguad.jpg
 authors:
   - Meng Jin
-  - Yuan He#
+  - Yuan He
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
   - Tianzheng Xing
