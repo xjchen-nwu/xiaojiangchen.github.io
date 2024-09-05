@@ -11,7 +11,7 @@ authors:
   - Wenli Jiao
   - Yanlin Li
   - Xiangdong Xi
-  - Ju Wang#
+  - Ju Wang
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
 links:
