@@ -9,7 +9,7 @@ abstract: >-
 cover:      /assets/images/covers/2018/easygo.jpg
 authors:
   - Chen Liu
-  - Dingyi Fang#
+  - Dingyi Fang
   - Yue Hu
   - Dan Xu#
   - Wen Cui
