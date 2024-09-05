@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/2020/aware.jpg
 authors:
   - Yujie Zhao
-  - Zhanyong Tang#
+  - Zhanyong Tang
   - Guixin Ye
   - Dongxu Peng
   - Dingyi Fang 
