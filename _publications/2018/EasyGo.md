@@ -11,7 +11,7 @@ authors:
   - Chen Liu
   - Dingyi Fang
   - Yue Hu
-  - Dan Xu#
+  - Dan Xu
   - Wen Cui
   - <strong>Xiaojiang Chen</strong>
   - Baoying Liu
