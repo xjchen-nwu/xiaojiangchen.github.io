@@ -13,7 +13,7 @@ authors:
   - Petteri Nurmi
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
-  - Zheng Wang#
+  - Zheng Wang
 links:
   Paper: https://researchportal.helsinki.fi/files/167747476/mobicom21_final474_1_.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3447993.3483253
