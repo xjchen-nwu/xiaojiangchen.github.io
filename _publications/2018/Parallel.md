@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/2018/Parallel.png
 authors:
   - Meng Jin
-  - Dingyi Fang#
+  - Dingyi Fang
   - Yuan He
   - Xin Meng 
   - <strong>Xiaojiang Chen</strong>
