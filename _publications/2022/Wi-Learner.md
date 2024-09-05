@@ -12,7 +12,7 @@ authors:
   - Nan Wang
   - Yicheng Jiang
   - Xia Zheng
-  - Kang Li#
+  - Kang Li
   - Zheng Wang
   - <strong>Xiaojiang Chen</strong>
 links:
