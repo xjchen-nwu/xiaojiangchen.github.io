@@ -9,11 +9,11 @@ abstract: >-
 cover:          /assets/images/covers/2021/nsdi21-chen.png
 authors:
   - Lili Chen
-  - Wenjun Hu (Yale University)
-  - Kyle Jamieson (Princeton University)
+  - Wenjun Hu 
+  - Kyle Jamieson 
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang
-  - Jeremy Gummeson (University of Massachusetts Amherst)
+  - Jeremy Gummeson 
 links:
   Presentation: https://www.usenix.org/conference/nsdi21/presentation/chen
   Paper: https://www.usenix.org/system/files/nsdi21-chen.pdf
