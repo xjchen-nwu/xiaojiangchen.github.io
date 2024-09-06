@@ -12,7 +12,7 @@ authors:
 - Chao Feng
 - Xiaojing Wang
 - Yangfan Zhang
-- Yaxiong Xie (University at Buffalo SUNY)
+- Yaxiong Xie 
 - Xiaojiang Chen
 links:
   Presentation: https://www.usenix.org/conference/nsdi23/presentation/li-xinyi
