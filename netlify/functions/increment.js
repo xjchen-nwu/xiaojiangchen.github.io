@@ -1,4 +1,4 @@
-// netlify/functions/increment.js
+// netlify/functions/visit-count.js
 const fs = require('fs');
 const path = require('path');
 
@@ -9,20 +9,20 @@ exports.handler = async (event, context) => {
     try {
         counter = JSON.parse(fs.readFileSync(counterFile, 'utf8'));
     } catch (err) {
-        console.error('Error reading counter file:', err);
         counter = { visits: 0 };
     }
 
-    counter.visits += 1;
+    if (event.httpMethod === 'POST') {
+        counter.visits += 1;
 
-    try {
-        fs.writeFileSync(counterFile, JSON.stringify(counter));
-    } catch (err) {
-        console.error('Error writing counter file:', err);
-        return {
-            statusCode: 500,
-            body: JSON.stringify({ error: 'Failed to write counter file' })
-        };
+        try {
+            fs.writeFileSync(counterFile, JSON.stringify(counter));
+        } catch (err) {
+            return {
+                statusCode: 500,
+                body: JSON.stringify({ error: 'Failed to write counter file' })
+            };
+        }
     }
 
     return {
