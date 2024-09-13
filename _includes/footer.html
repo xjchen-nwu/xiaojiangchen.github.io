@@ -24,13 +24,13 @@
 
 <script>
     // JavaScript to increment and display visit count
-    fetch('/increment')
+    fetch('/.netlify/functions/increment')
         .then(response => response.json())
         .then(data => {
             document.getElementById('visit-count').textContent = data.visits;
         })
         .catch(error => {
-            console.error('Error:', error);
+            console.error('Fetch error:', error);
             document.getElementById('visit-count').textContent = 'Error loading visit count';
         });
 </script>
