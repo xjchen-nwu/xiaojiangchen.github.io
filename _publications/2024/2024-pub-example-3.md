@@ -20,4 +20,5 @@ authors:
   - Yaxiong Xie
 links:
   Presentation: https://www.usenix.org/conference/nsdi24/presentation/li-liyao
+  video: /video/La Marseillaise s’empare de Paris.mp4
 ---
