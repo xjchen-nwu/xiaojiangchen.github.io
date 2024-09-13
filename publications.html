@@ -1,32 +1,48 @@
----
-layout: default
-title : Publications
-navbar_title: Publications
-body_attr: >-
-  data-spy="scroll" data-target="#navbar-year" data-offset="100"
----
-
-{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
-
-<div class="row">
-    <div class="col-12 col-lg-10">
-        {% for year in pubs_by_year %}
-        {% assign num_papers = year.items | size %}
-        <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
-        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
-            {% for item in year.items %}
-                {% include widgets/publication_item.html item=item %}
-            {% endfor %}
+<div class="container mb-4">
+    <!-- 分类按钮 -->
+    <div class="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="categoryDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            分类
+        </button>
+        <div class="dropdown-menu" aria-labelledby="categoryDropdown">
+            <a class="dropdown-item" href="#byYear">按年分类</a>
+            <a class="dropdown-item" href="#byCategory">按软硬件分类</a>
         </div>
-        {% endfor %}
     </div>
+</div>
 
-    <div class="col-2 d-none d-lg-block">
-        <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+<!-- 这里是具体的分类显示区域 -->
+<div id="byYear">
+    <h3>按年分类</h3>
+    <!-- 按年分类内容（你现有的代码） -->
+    <div class="row">
+        <div class="col-12 col-lg-10">
             {% for year in pubs_by_year %}
-            <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
+            {% assign num_papers = year.items | size %}
+            <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
+            <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+                {% for item in year.items %}
+                    {% include widgets/publication_item.html item=item %}
+                {% endfor %}
+            </div>
             {% endfor %}
         </div>
-    </div>
 
+        <div class="col-2 d-none d-lg-block">
+            <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+                {% for year in pubs_by_year %}
+                <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="byCategory" class="mt-4">
+    <h3>按软硬件分类</h3>
+    <!-- 按软硬件分类内容（自行实现软硬件分类逻辑） -->
+    <div class="btn-group" role="group" aria-label="Category Filter">
+        <a href="publications-software.html" class="btn btn-primary">软件</a>
+        <a href="publications-hardware.html" class="btn btn-secondary">硬件</a>
+    </div>
 </div>
