@@ -12,5 +12,25 @@
                 </div>
             </div>
         </div>
+        <div class="row my-3">
+            <div class="col-12">
+                <div class="text-center text-muted">
+                    Page visits: <span id="visit-count">Loading...</span>
+                </div>
+            </div>
+        </div>
     </div>
 </footer>
+
+<script>
+    // JavaScript to increment and display visit count
+    fetch('/increment')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('visit-count').textContent = data.visits;
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            document.getElementById('visit-count').textContent = 'Error loading visit count';
+        });
+</script>
