@@ -8,6 +8,19 @@ body_attr: >-
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
+<div class="container">
+    <!-- 分类按钮 -->
+    <div class="dropdown my-3">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            分类
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" href="#by-year">按年分类</a>
+            <a class="dropdown-item" href="#by-category">按软硬件分类</a>
+        </div>
+    </div>
+</div>
+
 <div class="row">
     <div class="col-12 col-lg-10">
         {% for year in pubs_by_year %}
