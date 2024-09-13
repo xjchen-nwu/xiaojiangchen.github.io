@@ -20,5 +20,8 @@ authors:
   - Yaxiong Xie
 links:
   Presentation: https://www.usenix.org/conference/nsdi24/presentation/li-liyao
-  video: /video/2.mp4
+  video: <video width="600" controls>
+  <source src="/video/2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
