@@ -1,3 +1,4 @@
 [submodule "libs/other-repository"]
 	path = libs/other-repository
 	url = https://github.com/xjchen-nwu/video.git
+	branch = master
