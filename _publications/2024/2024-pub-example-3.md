@@ -21,6 +21,6 @@ authors:
   - Yaxiong Xie
 links:
   Presentation: https://www.usenix.org/conference/nsdi24/presentation/li-liyao
-  video: video/2.mp4   
+  video:   
 ---
 
