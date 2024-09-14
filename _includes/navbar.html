@@ -7,17 +7,11 @@
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-                {% for item in site.data.navigation.pages %}
-                {% if item.name != page.navbar_title %}
-                <li class="nav-item">
+                <!--{% for item in site.data.navigation.pages %}>
+                <li class="nav-item {% if item.name == page.navbar_title %}active{% endif %}">
                     <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
                 </li>
-                {% else %}
-                <li class="nav-item">
-                    <a class="nav-link" href="#">{{ "主页" }}</a>
-                </li>
-                {% endif %}
-                {% endfor %}
+                <!--{% endfor %}-->
             </ul>
         </div>
     </div>
