@@ -23,4 +23,56 @@ links:
   Presentation: https://www.usenix.org/conference/nsdi24/presentation/li-liyao
   video: https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/video_page/vedio2.html
 ---
+<button onclick="openVideoPopup()">Play Video</button>
+
+<script>
+    function openVideoPopup() {
+        // 设置窗口的宽度和高度
+        const popupWidth = 640;
+        const popupHeight = 360;
+
+        // 计算窗口位置以使其居中显示
+        const left = (screen.width - popupWidth) / 2;
+        const top = (screen.height - popupHeight) / 2;
+
+        // 打开一个新的弹出窗口，用于显示视频
+        const videoWindow = window.open("", "VideoPlayer", `width=${popupWidth},height=${popupHeight},top=${top},left=${left},resizable=no,scrollbars=no,status=no`);
+
+        // 在弹出窗口中写入HTML内容，嵌入视频
+        videoWindow.document.write(`
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Video Player</title>
+                <style>
+                    body {
+                        margin: 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: #000;
+                        height: 100%;
+                    }
+                    video {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                    }
+                </style>
+            </head>
+            <body>
+                <video controls autoplay>
+                    <source src="video2/2.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </body>
+            </html>
+        `);
+
+        // 关闭文档写入流
+        videoWindow.document.close();
+    }
+</script>
 
