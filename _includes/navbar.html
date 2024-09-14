@@ -7,9 +7,9 @@
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="#">{{ "Home" }}</a>
-                </li>
+                <li class="nav-item {% if item.name == page.navbar_title %}active{% endif %}">
+                        <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+                    </li>
             </ul>
         </div>
     </div>
