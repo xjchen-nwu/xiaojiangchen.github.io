@@ -25,7 +25,7 @@
             </p>
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                 {% for video in item.videos %}
-                    <a href="javascript:void(0);" onclick="openVideoPopup('{{ link[1] }}');">[{{ link[0] }}]</a>
+                    <a href="javascript:void(0);" onclick="openVideoPopup('{{ video[1] }}');">[{{ video[0] }}]</a>
                 {% endfor %}
             </p>
             <script>
