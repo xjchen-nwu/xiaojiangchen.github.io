@@ -3,80 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Popup Example</title>
-    <style>
-        /* 样式设置，确保页面和按钮的基本样式 */
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-        }
-        .btn {
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            cursor: pointer;
-            font-size: 16px;
-            border-radius: 5px;
-        }
-    </style>
+    <title>Video Player</title>
 </head>
 <body>
+    <h1>Video Player</h1>
+    <video id="videoPlayer" width="640" controls>
+        <source id="videoSource" src="" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <div id="videoList">
+        <!-- Video list will be populated here -->
+    </div>
+    
+    <script>
+        const videoPlayer = document.getElementById('videoPlayer');
+        const videoSource = document.getElementById('videoSource');
+        const videoList = document.getElementById('videoList');
 
-<!-- 按钮，点击后弹出视频窗口 -->
-<button class="btn" onclick="openVideoPopup()">Play Video</button>
+        // Replace with the path to your video folder
+        const videoFolderPath = 'videos/';
 
-<script>
-    function openVideoPopup() {
-        // 设置窗口的宽度和高度
-        const popupWidth = 640;
-        const popupHeight = 360;
+        // List of videos (you can generate this dynamically from the server)
+        const videos = [
+            'video1.mp4',
+            'video2.mp4',
+            'video3.mp4'
+        ];
 
-        // 计算窗口位置以使其居中显示
-        const left = (screen.width - popupWidth) / 2;
-        const top = (screen.height - popupHeight) / 2;
-
-        // 打开一个新的弹出窗口，用于显示视频
-        const videoWindow = window.open("", "VideoPlayer", `width=${popupWidth},height=${popupHeight},top=${top},left=${left},resizable=no,scrollbars=no,status=no`);
-
-        // 确保窗口内容完全加载
-        videoWindow.document.write(`
-            <!DOCTYPE html>
-            <html lang="en">
-            <head>
-                <meta charset="UTF-8">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>Video Player</title>
-                <style>
-                    body {
-                        margin: 0;
-                        display: flex;
-                        justify-content: center;
-                        align-items: center;
-                        background-color: #000;
-                        height: 100%;
-                    }
-                    video {
-                        width: 100%;
-                        height: 100%;
-                        object-fit: cover;
-                    }
-                </style>
-            </head>
-            <body>
-                <video controls autoplay>
-                    <source src="video2/2.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </body>
-            </html>
-        `);
-
-        // 关闭文档写入流
-        videoWindow.document.close();
-    }
-</script>
-
+        // Populate the video list
+        videos.forEach(video => {
+            const button = document.createElement('button');
+            button.textContent = video;
+            button.onclick = () => {
+                videoSource.src = videoFolderPath + video;
+                videoPlayer.load();
+                videoPlayer.play();
+            };
+            videoList.appendChild(button);
+        });
+    </script>
 </body>
 </html>
