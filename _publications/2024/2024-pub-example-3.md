@@ -21,16 +21,6 @@ authors:
   - Yaxiong Xie
 links:
   Presentation: https://www.usenix.org/conference/nsdi24/presentation/li-liyao
-  video: javascript:openVideoPopup('video2/2.mp4')
+  video: https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/video_page/vedio2.html
 ---
-<script src="/assets/js/video-popup.js"></script>
-<script>
-    function handleVideoClickFromLinks(videoPath) {
-        openVideoPopup(videoPath);
-        return false;  // 阻止链接的默认行为
-    }
-</script>
-
-<!-- 在此处使用按钮样式，将 links.video 作为按钮来播放视频 -->
-<a href="#" onclick="return handleVideoClickFromLinks('video2/2.mp4');" class="btn btn-primary">Play Video</a>
 
