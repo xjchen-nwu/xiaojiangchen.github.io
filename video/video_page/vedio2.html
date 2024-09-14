@@ -3,37 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Player</title>
+    <title>Video Popup Example</title>
     <style>
-        html, body {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #000;  /* 背景为黑色 */
+        /* 样式设置，确保页面和按钮的基本样式 */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
         }
-        .video-container {
-            width: 640px;
-            height: 360px;
-        }
-        video {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
+        .btn {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 5px;
         }
     </style>
 </head>
 <body>
 
-<div class="video-container">
-    <video controls>
-        <source src="video2/2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+<!-- 按钮，点击后弹出视频窗口 -->
+<button class="btn" onclick="openVideoPopup()">Play Video</button>
+
+<script>
+    // JavaScript函数，用于弹出一个固定大小的视频窗口
+    function openVideoPopup() {
+        // 设置窗口的宽度和高度
+        const popupWidth = 640;
+        const popupHeight = 360;
+
+        // 计算窗口位置以使其居中显示
+        const left = (screen.width - popupWidth) / 2;
+        const top = (screen.height - popupHeight) / 2;
+
+        // 打开一个新的弹出窗口，用于显示视频
+        const videoWindow = window.open("", "Video Player", `width=${popupWidth},height=${popupHeight},top=${top},left=${left}`);
+
+        // 在弹出窗口中写入HTML内容，嵌入视频
+        videoWindow.document.write(`
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Video Player</title>
+                <style>
+                    body {
+                        margin: 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: #000;
+                        height: 100%;
+                    }
+                    video {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                    }
+                </style>
+            </head>
+            <body>
+                <video controls autoplay>
+                    <source src="video/2.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </body>
+            </html>
+        `);
+    }
+</script>
 
 </body>
 </html>
