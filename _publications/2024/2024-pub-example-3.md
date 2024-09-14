@@ -22,6 +22,6 @@ authors:
 links:
   Presentation: https://www.usenix.org/conference/nsdi24/presentation/li-liyao
 videos:
-  video: /video/2.mp4
+  [Video](video/2.mp4) <!-- 视频路径 -->
 ---
 
