@@ -1,6 +1,7 @@
 ---
 title:          "Semantics-aware obfuscation scheme prediction for binary"
 date:           2020-12-16 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "Computers & Security  (CCF-B)"
 pub_date:       "2020"
