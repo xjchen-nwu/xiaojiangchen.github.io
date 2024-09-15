@@ -1,6 +1,7 @@
 ---
 title:          "Earmonitor: In-ear Motion-resilient Acoustic Sensing using Commodity Earphones"
 date:           2022-10-14 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "UbiComp’22  (CCF-A)"
 pub_date:       "2022"
