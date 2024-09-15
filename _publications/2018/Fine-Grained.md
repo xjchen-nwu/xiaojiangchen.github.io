@@ -1,6 +1,7 @@
 ---
 title:          " Low Human-Effort, Device-Free Localization with Fine-Grained Subcarrier Information"
 date:           2018-03-12 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE Transactions on Mobile Computing (CCF-A)"
 pub_date:       "2018"
