@@ -1,6 +1,7 @@
 ---
 title:          "Cracking Android Pattern Lock in Five Attempts"
 date:           2017-10-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "NDSS’17   (CCF-B)"
 pub_date:       "2017"
