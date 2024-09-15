@@ -1,6 +1,7 @@
 ---
 title:          "Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach"
 date:           2018-10-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "CCS’18"
 pub_date:       "2018"
