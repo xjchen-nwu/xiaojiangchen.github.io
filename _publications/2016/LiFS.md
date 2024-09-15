@@ -1,6 +1,7 @@
 ---
 title:          "LiFS: low human-effort, device-free localization with fine-grained subcarrier information"
 date:           2016-10-03 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "Mobicom’16  (CCF-A)"
 pub_date:       "2016"
