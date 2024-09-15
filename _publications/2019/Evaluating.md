@@ -1,6 +1,7 @@
 ---
 title:          "Find me a safe zone: A countermeasure for channel state information based attacks"
 date:           2019-01-16 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "Computers & Security  (CCF-B)"
 pub_date:       "2019"
