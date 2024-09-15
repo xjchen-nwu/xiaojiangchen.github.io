@@ -1,6 +1,7 @@
 ---
 title:          "RS3CIS: Robust Single-Step Spectral Clustering with Intrinsic Subspace"
 date:           2019-07-16 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "AAAI Technical Track: Machine Learning "
 pub_date:       "2019"
