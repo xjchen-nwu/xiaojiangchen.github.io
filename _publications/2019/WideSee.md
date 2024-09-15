@@ -20,4 +20,5 @@ authors:
 links:
   Paper: https://zwang4.github.io/publications/sensys19.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3356250.3360031
+  video: https://github.com/xjchen-nwu/xiaojiangchen.github.io/blob/main/video/widesee/widesee.html
 ---
