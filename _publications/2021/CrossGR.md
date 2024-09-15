@@ -1,6 +1,7 @@
 ---
 title:          "CrossGR: Accurate and Low-cost Cross-target Gesture Recognition Using Wi-Fi"
 date:           2021-03-30 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "UbiComp’21  (CCF-A)"
 pub_date:       "2021"
