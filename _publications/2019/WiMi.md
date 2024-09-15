@@ -1,6 +1,7 @@
 ---
 title:          "WiMi: Target Material Identification with Commodity Wi-Fi Devices"
 date:           2019-07-11 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "ICDCS’19   (CCF-B)"
 pub_date:       "2019"
