@@ -1,6 +1,7 @@
 ---
 title:          "BioScatter: Low Power Sweat Sensing with Backscatter"
 date:           2023-03-28 00:01:00 +0800
+type:           hardware
 selected:       false
 pub:            "MobiSys'23 (CCF-B)"
 #pub_date:       "2023"
