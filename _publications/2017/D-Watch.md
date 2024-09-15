@@ -1,6 +1,7 @@
 ---
 title:          "D-Watch: Embracing “bad” Multipaths for Device-Free Localization with COTS RFID Devices"
 date:           2017-10-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE/ACM Transactions on Networking  (CCF-A)"
 pub_date:       "2017"
