@@ -1,6 +1,7 @@
 ---
 title:          "E-HIPA: An Energy-Efficient Framework for High-Precision Multi-Target-Adaptive Device-Free Localization"
 date:           2017-10-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE Transactions on Mobile Computing  (CCF-A)"
 pub_date:       "2017"
