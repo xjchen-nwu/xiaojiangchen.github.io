@@ -1,6 +1,7 @@
 ---
 title:          "RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing"
 date:           2021-10-25 00:01:00 +0800
+type:           hardware
 selected:       false
 pub:            "MobiCom’21  (CCF-A)"
 pub_date:       "2021"
