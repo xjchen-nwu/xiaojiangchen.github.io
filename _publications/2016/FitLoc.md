@@ -1,5 +1,5 @@
 ---
-title:          "FitLoc: Fine-grained and Low-cost Device-free Localization for Multiple Targets over Various Areas. Liqiong Chang"
+title:          "FitLoc: Fine-grained and Low-cost Device-free Localization for Multiple Targets over Various Areas."
 date:           2016-07-28 00:01:00 +0800
 type:           software
 selected:       false
