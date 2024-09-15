@@ -1,6 +1,7 @@
 ---
 title:          " EasyGo: Low-cost and robust geographic opportunistic sensing routing in a strip topology wireless sensor network"
 date:           2018-10-09 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "Computer Networks (CCF-B)"
 pub_date:       "2018"
