@@ -1,6 +1,7 @@
 ---
 title:          "Using Generative Adversarial Networks to Break and Protect Text Captchas"
 date:           2020-04-16 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "ACM Transactions on Privacy and Security  (CCF-B)"
 pub_date:       "2020"
