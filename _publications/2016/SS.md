@@ -1,6 +1,7 @@
 ---
 title:          "SS Distribution-Based Passive Localization and Its Application in Sensor Networks"
 date:           2016-10-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE Transactions on Wireless Communications (CCF-B)"
 pub_date:       "2016"
