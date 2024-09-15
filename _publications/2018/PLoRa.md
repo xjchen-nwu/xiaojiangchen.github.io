@@ -19,5 +19,5 @@ authors:
 links:
   Paper: https://dl.acm.org/doi/pdf/10.1145/3230543.3230567
   Weblink: https://dl.acm.org/doi/10.1145/3230543.3230567
-  video: https://github.com/xjchen-nwu/xiaojiangchen.github.io/blob/main/video/plora/plora.html
+  video: https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/plora/plora.html
 ---
