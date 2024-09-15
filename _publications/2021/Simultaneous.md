@@ -1,6 +1,7 @@
 ---
 title:          "Simultaneous Material Identification and Target Imaging with Commodity RFID Devices"
 date:           2019-10-08 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE Transactions on Mobile Computing  (CCF-A)"
 pub_date:       "2021"
