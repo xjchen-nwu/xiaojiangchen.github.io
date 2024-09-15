@@ -1,6 +1,7 @@
 ---
 title:          "FitLoc: Fine-grained and Low-cost Device-free Localization for Multiple Targets over Various Areas"
 date:           2017-10-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE/ACM Transactions on Networking  (CCF-A)"
 pub_date:       "2017"
