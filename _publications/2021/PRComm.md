@@ -1,6 +1,7 @@
 ---
 title:          "PRComm: Anti-Interference Cross-Technology Communication Based on Pseudo-random Sequence"
 date:           2021-05-20 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IPSN '21"
 pub_date:       "2021"
