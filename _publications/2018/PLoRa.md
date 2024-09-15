@@ -1,6 +1,7 @@
 ---
 title:          "PLoRa: a passive long-range data network from ambient LoRa transmissions"
 date:           2018-08-07 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "Sigcomm’18  (CCF-A)"
 pub_date:       "2018"
