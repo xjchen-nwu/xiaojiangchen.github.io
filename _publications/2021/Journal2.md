@@ -1,6 +1,7 @@
 ---
 title:          "A Comprehensive Survey of Scene Graphs: Generation and Application"
 date:           2021-12-23 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A)"
 pub_date:       "2021"
