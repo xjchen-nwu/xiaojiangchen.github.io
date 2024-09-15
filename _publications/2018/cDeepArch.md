@@ -1,6 +1,7 @@
 ---
 title:          "cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing"
 date:           2019-10-01 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "SECON’18  (CCF-B)"
 pub_date:       "2019"
