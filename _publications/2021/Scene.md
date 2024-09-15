@@ -1,6 +1,7 @@
 ---
 title:          "Scene Graphs: A Survey of Generations and Applications"
 date:           2021-12-23 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE Transactions on Pattern Analysis and Machine Intelligence  (CCF-A)"
 pub_date:       "2021"
@@ -16,5 +17,5 @@ authors:
   - Alexander G. Hauptmann
 links:
   Paper: https://arxiv.org/pdf/2104.01111
-  Weblink: https://ieeexplore.ieee.org/document/9661322/authors#authors
+  Weblink: https://ieeexplore.ieee.org/document/9661322
 ---
