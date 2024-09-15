@@ -1,6 +1,7 @@
 ---
 title:          "Line separation from topographic maps using regional color and spatial information"
 date:           2018-07-13 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IJCAI’18"
 pub_date:       "2018"
