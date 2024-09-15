@@ -1,6 +1,7 @@
 ---
 title:          "iUpdater: Low-Cost RSS Fingerprints Updating for Device-Free Localization"
 date:           2017-10-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "ICDCS’17   (CCF-B)"
 pub_date:       "2017"
