@@ -17,4 +17,5 @@ authors:
   - Dingyi Fang
 links:
   Weblink: https://dl.acm.org/doi/abs/10.1145/3356250.3360027
+  video:   https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/tagtag/tagtag.html
 ---
