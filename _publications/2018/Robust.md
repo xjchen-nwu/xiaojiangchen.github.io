@@ -1,6 +1,7 @@
 ---
 title:          "Robust Auto-Weighted Multi-View Clustering"
 date:           2018-07-01 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IJCAI’18  (CCF-A)"
 pub_date:       "2018"
