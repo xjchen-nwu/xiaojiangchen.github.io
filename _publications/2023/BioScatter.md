@@ -16,4 +16,5 @@ authors:
   - <strong>Xiaojiang Chen</strong>
 links:
   Weblink: https://dl.acm.org/doi/abs/10.1145/3581791.3596834
+  video: https://github.com/xjchen-nwu/xiaojiangchen.github.io/blob/main/video/sweat/sweat.html
 ---
