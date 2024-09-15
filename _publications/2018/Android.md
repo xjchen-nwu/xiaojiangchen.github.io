@@ -1,6 +1,7 @@
 ---
 title:          "A Video-based Attack for Android Pattern Lock"
 date:           2018-07-24 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "ACM Transactions on Privacy and Security (CCF-B)"
 pub_date:       "2018"
