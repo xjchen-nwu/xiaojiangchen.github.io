@@ -1,6 +1,7 @@
 ---
 title:          "When Object Detection Meets Knowledge Distillation: A Survey"
 date:           2023-03-15 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE TPAMI (CCF-A)"
 pub_date:       "2023"
@@ -16,5 +17,5 @@ authors:
   - Lina Yao
   - <strong>Xiaojiang Chen</strong>
 links:
-  Weblink: https://ieeexplore.ieee.org/abstract/document/10070820/authors#authors
+  Weblink: https://ieeexplore.ieee.org/abstract/document/10070820
 ---
