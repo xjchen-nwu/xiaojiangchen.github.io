@@ -1,6 +1,7 @@
 ---
 title:          "Robust Self-weighted Multi-view Projection Clustering"
 date:           2020-04-30 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "The Thirty-Forth AAAI Conference on Artificial Intelligence"
 pub_date:       "2020"
