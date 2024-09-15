@@ -1,6 +1,7 @@
 ---
 title:          "dWatch: A Reliable and Low-Power Drowsiness Detection System for Drivers Based on Mobile Devices"
 date:           2020-09-16 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "ACM Transactions on Sensor Networks  (CCF-B)"
 pub_date:       "2020"
