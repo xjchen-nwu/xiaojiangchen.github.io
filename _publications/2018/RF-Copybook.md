@@ -1,6 +1,7 @@
 ---
 title:          "RF-Copybook: A Millimeter Level Calligraphy Copybook based on commodity RFID"
 date:           2018-01-08 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "Ubicomp’18  (CCF-A)"
 pub_date:       "2018"
