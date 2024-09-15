@@ -1,6 +1,7 @@
 ---
 title:          "SmartLens: Sensing Eye Activities Using Zero-power Contact Lens"
 date:           2022-10-14 00:01:00 +0800
+type:           hardware
 selected:       false
 pub:            "MobiCom’22  (CCF-A)"
 pub_date:       "2022"
