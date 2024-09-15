@@ -1,6 +1,7 @@
 ---
 title:          "Compile-time code virtualization for Android applications"
 date:           2020-06-16 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "Computers & Security  (CCF-B)"
 pub_date:       "2020"
