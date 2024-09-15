@@ -1,6 +1,7 @@
 ---
 title:          "Exploring commodity RFID for contactless sub-millimeter vibration sensing"
 date:           2020-11-16 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "SenSys’20  (CCF-B)"
 pub_date:       "2020"
