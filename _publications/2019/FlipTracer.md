@@ -1,6 +1,7 @@
 ---
 title:          "FlipTracer: Practical Parallel Decoding for Backscatter Communication"
 date:           2019-01-11 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "IEEE/ACM Transactions on Networking  (CCF-A)"
 pub_date:       "2019"
