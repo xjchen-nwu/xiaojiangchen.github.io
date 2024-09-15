@@ -1,6 +1,7 @@
 ---
 title:          "RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments"
 date:           2021-10-25 00:01:00 +0800
+type:           software
 selected:       false
 pub:            "MobiCom’21  (CCF-A)"
 pub_date:       "2021"
