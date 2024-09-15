@@ -1,6 +1,7 @@
 ---
 title:          "Eliminating Design Effort: A Reconfigurable Sensing Framework For Chipless, Backscatter Tags"
 date:           2022-05-04 00:01:00 +0800
+type:           hardware
 selected:       false
 pub:            "2022 21st ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)"
 pub_date:       "2022"
