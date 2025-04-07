@@ -3,6 +3,7 @@ title:          "LungTrack: Towards Contactless and Zero Dead-Zone Respiration M
 date:           2019-09-09 00:01:00 +0800
 type:           software
 selected:       false
+conference:     UbiComp
 pub:            "UbiComp’19   (CCF-A)"
 pub_date:       "2019"
 abstract: >-
@@ -16,6 +17,6 @@ authors:
   - Tao Yan
   - Dingyi Fang
 links:
-  Paper: https://hal.science/hal-02321058v1/preview/1-LungTrack.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3351237
+  Paper: https://hal.science/hal-02321058v1/preview/1-LungTrack.pdf
 ---
