@@ -17,7 +17,7 @@ authors:
   - Dingyi Fang
   - Zhanyong Tang
   - Zheng Wang
-links:
-  Paper: https://zwang4.github.io/publications/percom18.pdf
+links
   Weblink: https://ieeexplore.ieee.org/document/8444586
+  Paper: https://zwang4.github.io/publications/percom18.pdf
 ---
