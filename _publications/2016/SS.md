@@ -15,6 +15,6 @@ authors:
   - jianghongbo 
   - <strong>Xiaojiang Chen</strong>
 links:
-  Paper: https://www.ece.uvic.ca/~cai/twc16-rss.pdf
   Weblink: https://ieeexplore.ieee.org/abstract/document/7366598
+  Paper: https://www.ece.uvic.ca/~cai/twc16-rss.pdf
 ---
