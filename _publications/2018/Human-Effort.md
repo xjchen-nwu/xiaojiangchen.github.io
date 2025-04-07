@@ -1,8 +1,9 @@
 ---
-title:          " Low Human-Effort, Device-Free Localization with Fine-Grained Subcarrier Information"
+title:          "Low Human-Effort, Device-Free Localization with Fine-Grained Subcarrier Information"
 date:           2018-01-25 00:01:00 +0800
 type:           software
 selected:       false
+article:        TMC
 pub:            "IEEE Transactions on Mobile Computing  (CCF-A)"
 pub_date:       "2018"
 abstract: >-
@@ -17,5 +18,6 @@ authors:
   - Dingyi Fang
   - Chen Wang
 links:
+  Weblink: https://ieeexplore.ieee.org/document/8314084/
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/Human-Effort.pdf
 ---
