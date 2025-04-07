@@ -3,6 +3,7 @@ title:          "LiFS: low human-effort, device-free localization with fine-grai
 date:           2016-10-03 00:01:00 +0800
 type:           software
 selected:       false
+conference:     Mobicom
 pub:            "Mobicom’16  (CCF-A)"
 pub_date:       "2016"
 abstract: >-
@@ -17,6 +18,6 @@ authors:
   - Dingyi Fang
   - Binbin Xie
 links:
-  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research
   Weblink: https://doi.org/10.1145/2973750.2973776
+  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research
 ---
