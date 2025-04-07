@@ -3,6 +3,7 @@ title:          " Low Human-Effort, Device-Free Localization with Fine-Grained 
 date:           2018-03-12 00:01:00 +0800
 type:           software
 selected:       false
+article:        TMC
 pub:            "IEEE Transactions on Mobile Computing (CCF-A)"
 pub_date:       "2018"
 abstract: >-
@@ -16,6 +17,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang
 links:
-  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research
   Weblink: https://ieeexplore.ieee.org/abstract/document/8314084
+  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research
 ---
