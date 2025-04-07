@@ -3,6 +3,7 @@ title:          "Pushing the Physical Limits of IoT Devices with Programmable Me
 date:           2021-10-14 00:01:00 +0800
 type:           hardware
 selected:       false
+conference:     NSDI
 pub:            "NSDI’21  (CCF-A)"
 pub_date:       "2021"
 abstract: >-
