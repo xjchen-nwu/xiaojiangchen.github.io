@@ -3,6 +3,7 @@ title:          "Tagtag: Material Sensing with Commodity RFID"
 date:           2019-11-09 00:01:00 +0800
 type:           software
 selected:       true
+conference:     SenSys
 pub:            "SenSys’19  (CCF-B)"
 pub_date:       "2019"
 abstract: >-
@@ -17,7 +18,7 @@ authors:
   - Zhanyong Tang
   - Dingyi Fang
 links:
-  #Weblink: https://dl.acm.org/doi/abs/10.1145/3356250.3360027
-  video:   https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/tagtag/tagtag.html
+  Weblink: https://dl.acm.org/doi/abs/10.1145/3356250.3360027
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2019/Tagtag.pdf
+  video:   https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/tagtag/tagtag.html
 ---
