@@ -17,5 +17,5 @@ authors:
   - Dingyi Fang
   - Zhanyong Tang
 links:
-  Weblink: https://ieeexplore.ieee.org/abstract/document/8884791
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2019/WiMi.pdf
 ---
