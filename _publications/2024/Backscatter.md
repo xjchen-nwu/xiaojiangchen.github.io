@@ -17,5 +17,5 @@ authors:
   - Xiaojiang Chen
 cover:          /assets/images/covers/2024/wifi.png
 links:
-  paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/Backscatter.pdf
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/Backscatter.pdf
 ---
