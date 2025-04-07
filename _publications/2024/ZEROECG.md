@@ -20,5 +20,5 @@ authors:
   - Dingyi Fang
   - Xiaojiang Chen
 links:
-  paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/zeroecg.pdf
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/zeroecg.pdf
 ---
