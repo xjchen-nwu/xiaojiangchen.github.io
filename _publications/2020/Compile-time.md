@@ -17,5 +17,5 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Zheng Wang
 links:
-  Weblink: https://www.sciencedirect.com/science/article/pii/S0167404820300936#fig0001
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2020/Compile-time.pdf
 ---
