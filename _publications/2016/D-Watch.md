@@ -15,6 +15,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang
 links:
-  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4387&context=sis_research
   Weblink: https://doi.org/10.1145/2999572.2999589
+  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4387&context=sis_research
 ---
