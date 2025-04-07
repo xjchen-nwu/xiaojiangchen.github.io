@@ -3,6 +3,7 @@ title:          "FlipTracer: Practical Parallel Decoding for Backscatter Communi
 date:           2017-10-15 00:01:00 +0800
 type:           software
 selected:       false
+conference:     MobiCom 
 pub:            "MobiCom’17  (CCF-A)"
 pub_date:       "2017"
 abstract: >-
@@ -16,6 +17,6 @@ authors:
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
 links:
-  Paper: https://dl.acm.org/doi/pdf/10.1145/3117811.3117828
   Weblink: https://dl.acm.org/doi/abs/10.1145/3117811.3117828
+  Paper: https://dl.acm.org/doi/pdf/10.1145/3117811.3117828
 ---
