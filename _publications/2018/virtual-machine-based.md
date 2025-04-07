@@ -16,6 +16,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Zheng Wang
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0167404818300270/pdfft?md5=764bf93252ea6531565d6215f93687d4&pid=1-s2.0-S0167404818300270-main.pdf
   Weblink: https://www.sciencedirect.com/science/article/pii/S0167404818300270#f0060
+  Paper: https://www.sciencedirect.com/science/article/pii/S0167404818300270/pdfft?md5=764bf93252ea6531565d6215f93687d4&pid=1-s2.0-S0167404818300270-main.pdf
 ---
