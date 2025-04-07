@@ -18,5 +18,5 @@ authors:
   - Petteri Nurmi
   - Zheng Wang
 links:
-  Weblink: https://doi.org/10.1145/3264908
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/SleepGuard.pdf
 ---
