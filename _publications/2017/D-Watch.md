@@ -15,6 +15,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang 
 links:
-  Paper: https://ink.library.smu.edu.sg/sis_research/3386/
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2017/D-watch.pdf
   Weblink: https://doi.org/10.1109/TNET.2017.2747583
 ---
