@@ -16,6 +16,6 @@ authors:
   - Dingyi Fang
   - Yuan He
 links:
-  Paper: http://tns.thss.tsinghua.edu.cn/sun/publications/2016.13.pdf
   Weblink: https://ieeexplore.ieee.org/document/7524335
+  Paper: http://tns.thss.tsinghua.edu.cn/sun/publications/2016.13.pdf
 ---
