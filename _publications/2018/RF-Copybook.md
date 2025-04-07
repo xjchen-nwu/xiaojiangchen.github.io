@@ -3,6 +3,7 @@ title:          "RF-Copybook: A Millimeter Level Calligraphy Copybook based on c
 date:           2018-01-08 00:01:00 +0800
 type:           software
 selected:       false
+conference:     Ubicomp
 pub:            "Ubicomp’18  (CCF-A)"
 pub_date:       "2018"
 abstract: >-
@@ -17,5 +18,6 @@ authors:
   - Zhanyong Tang
   - Dingyi Fang
 links:
+  Weblink: https://dl.acm.org/doi/10.1145/3161191
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/RF-Copybook.pdf
 ---
