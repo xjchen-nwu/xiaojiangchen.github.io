@@ -19,6 +19,6 @@ authors:
   - Xiaoqing Gong
   - Zheng Wang
 links:
-  Paper: https://www.ijcai.org/Proceedings/2018/0146.pdf
   Weblink: https://www.ijcai.org/proceedings/2018/146
+  Paper: https://www.ijcai.org/Proceedings/2018/0146.pdf
 ---
