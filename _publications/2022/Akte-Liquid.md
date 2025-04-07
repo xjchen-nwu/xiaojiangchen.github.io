@@ -16,5 +16,5 @@ authors:
   - Baochun Li
   - <strong>Xiaojiang Chen</strong>
 links:
-  Weblink: https://dl.acm.org/doi/abs/10.1145/3551640
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2022/Akte-Liquid.pdf
 ---
