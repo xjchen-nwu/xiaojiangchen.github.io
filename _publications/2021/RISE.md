@@ -3,6 +3,7 @@ title:          "RISE: Robust Wireless Sensing using Probabilistic and Statistic
 date:           2021-10-25 00:01:00 +0800
 type:           software
 selected:       false
+conference:     MobiCom
 pub:            "MobiCom’21  (CCF-A)"
 pub_date:       "2021"
 abstract: >-
@@ -16,6 +17,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Zheng Wang
 links:
-  Paper: https://researchportal.helsinki.fi/files/167747476/mobicom21_final474_1_.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3447993.3483253
+  Paper: https://researchportal.helsinki.fi/files/167747476/mobicom21_final474_1_.pdf
 ---
