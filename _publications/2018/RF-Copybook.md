@@ -17,5 +17,5 @@ authors:
   - Zhanyong Tang
   - Dingyi Fang
 links:
-  Weblink: https://dl.acm.org/doi/10.1145/3161191
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/RF-Copybook.pdf
 ---
