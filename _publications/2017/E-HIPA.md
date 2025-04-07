@@ -3,6 +3,7 @@ title:          "E-HIPA: An Energy-Efficient Framework for High-Precision Multi-
 date:           2017-10-15 00:01:00 +0800
 type:           software
 selected:       false
+article:        TMC
 pub:            "IEEE Transactions on Mobile Computing  (CCF-A)"
 pub_date:       "2017"
 abstract: >-
@@ -17,6 +18,6 @@ authors:
   - Tianzhang Xing
   - Lin Cai
 links:
-  Paper: https://www.ece.uvic.ca/~cai/tmc17-hipa.pdf
   Weblink: https://ieeexplore.ieee.org/abstract/document/7469386
+  Paper: https://www.ece.uvic.ca/~cai/tmc17-hipa.pdf
 ---
