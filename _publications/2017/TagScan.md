@@ -3,6 +3,7 @@ title:          "TagScan: Simultaneous Target Imaging and Material Identificatio
 date:           2017-10-15 00:01:00 +0800
 type:           software
 selected:       false
+conference:     MobiCom
 pub:            "MobiCom’17  (CCF-A)"
 pub_date:       "2017"
 abstract: >-
@@ -16,6 +17,6 @@ authors:
   - Rajesh Krishna Balan
   - Dingyi Fang
 links:
-  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4878&context=sis_research
   Weblink: https://dl.acm.org/doi/abs/10.1145/3117811.3117830
+  Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4878&context=sis_research
 ---
