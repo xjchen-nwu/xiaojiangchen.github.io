@@ -17,5 +17,5 @@ authors:
   -  Hao Jia
   - Xiaojiang Chen
 links:
-  paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/Hydra.pdf
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/Hydra.pdf
 ---
