@@ -3,6 +3,7 @@ title:          "Pushing the Throughput Limit of OFDM-based Wi-Fi Backscatter Co
 date:           2024-11-28 00:01:00 +0800
 selected:       false
 type:           software
+sort:           Mobicom
 pub:            "Mobicom’24 (CCF-A)"
 #pub_date:       "20234"
 abstract: >-
@@ -16,5 +17,5 @@ authors:
   - Xiaojiang Chen
 cover:          /assets/images/covers/2024/wifi.png
 links:
-  #video: https://youtu.be/_ougk-yTbkY
+  paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/Backscatter.pdf
 ---
