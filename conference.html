@@ -1,0 +1,34 @@
+---
+layout: default
+title : conference
+navbar_title: Conference
+body_attr: >-
+  data-spy="scroll" data-target="#navbar-year" data-offset="100"
+---
+
+{% assign pubs_by_conf = site.publications | group_by: "conference" %}
+{% assign sorted_pubs_by_conf = pubs_by_conf | sort: "name" %}
+
+<div class="row">
+    <div class="col-12 col-lg-10">
+        {% for conf_group in sorted_pubs_by_conf %}
+        {% assign conf_name = conf_group.name %}
+        <h2 class="pt-4" id="conf-{{ conf_name | slugify }}">{{ conf_name }}</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+            {% assign sorted_items = conf_group.items | sort: "pub_date" | reverse %}
+            {% for item in sorted_items %}
+                {% include widgets/publication_item.html item=item %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="col-2 d-none d-lg-block">
+        <div id="navbar-type" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+            {% for type_group in sorted_pubs_by_type %}
+            <a class="nav-link d-block" href="#type-{{ type_group.name }}">{{ type_group.name | capitalize }}</a>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
