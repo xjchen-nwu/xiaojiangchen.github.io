@@ -3,6 +3,7 @@ title:          "Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi ba
 date:           2022-10-14 00:01:00 +0800
 type:           software
 selected:       false
+conference:     UbiComp
 pub:            "UbiComp’22   (CCF-A)"
 pub_date:       "2022"
 abstract: >-
@@ -17,6 +18,6 @@ authors:
   - Zheng Wang
   - <strong>Xiaojiang Chen</strong>
 links:
-  Paper: https://eprints.whiterose.ac.uk/190042/1/UbiComp_2022_WiGesture.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3550318
+  Paper: https://eprints.whiterose.ac.uk/190042/1/UbiComp_2022_WiGesture.pdf
 ---
