@@ -3,6 +3,7 @@ title:          "Simultaneous Material Identification and Target Imaging with Co
 date:           2019-10-08 00:01:00 +0800
 type:           software
 selected:       false
+article:        TMC
 pub:            "IEEE Transactions on Mobile Computing  (CCF-A)"
 pub_date:       "2019"
 abstract: >-
@@ -16,5 +17,6 @@ authors:
   - Rajesh Krishna Balan
   - Dingyi Fang
 links:
-  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2019/Simultaneous.pdf
+ Weblink: https://ieeexplore.ieee.org/document/8863040
+ Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2019/Simultaneous.pdf
 ---
