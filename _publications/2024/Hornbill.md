@@ -3,6 +3,7 @@ title:          "Hornbill: A Portable, Touchless, and Battery-Free Electrochemic
 date:           2024-11-28 00:01:00 +0800
 selected:       false
 type:           hardware
+sort:           Mobicom
 pub:            "Mobicom’24 (CCF-A)"
 #pub_date:       "20234"
 abstract: >-
