@@ -3,7 +3,7 @@ title:          "ZEROECG: Zero-Sensation ECG Monitoring By Exploring RFID MOSFET
 date:           2024-11-28 00:01:00 +0800
 selected:       false
 type:           hardware
-sort:           Mobicom
+conference:     Mobicom
 pub:            "Mobicom’24 (CCF-A)"
 #pub_date:       "20234"
 abstract: >-
@@ -20,5 +20,6 @@ authors:
   - Dingyi Fang
   - Xiaojiang Chen
 links:
+  Weblink: https://dl.acm.org/doi/10.1145/3636534.3690690
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2024/zeroecg.pdf
 ---
