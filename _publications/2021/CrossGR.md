@@ -3,6 +3,7 @@ title:          "CrossGR: Accurate and Low-cost Cross-target Gesture Recognition
 date:           2021-03-30 00:01:00 +0800
 type:           software
 selected:       false
+conference:     UbiComp
 pub:            "UbiComp’21  (CCF-A)"
 pub_date:       "2021"
 abstract: >-
@@ -17,6 +18,6 @@ authors:
   - Zhanyong Tang
   - Zheng Wang
 links:
-  Paper: https://eprints.whiterose.ac.uk/170933/6/ubicomp2021.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3448100
+  Paper: https://eprints.whiterose.ac.uk/170933/6/ubicomp2021.pdf
 ---
