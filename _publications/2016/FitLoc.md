@@ -17,6 +17,6 @@ authors:
   - Tianzhang Xing
   - Zhanyong Tang
 links:
-  Paper: https://cis.temple.edu/~yu/research/FitLoc-infocom16.pdf
   Weblink: https://ieeexplore.ieee.org/document/7524390
+  Paper: https://cis.temple.edu/~yu/research/FitLoc-infocom16.pdf
 ---
