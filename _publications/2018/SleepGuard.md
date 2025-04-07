@@ -3,6 +3,7 @@ title:          "SleepGuard: Capturing Rich Sleep Information Using Smartwatch S
 date:           2018-09-18 00:01:00 +0800
 type:           software
 selected:       false
+conference:     Ubicomp
 pub:            "Ubicomp’18  (CCF-A)"
 pub_date:       "2018"
 abstract: >-
@@ -18,5 +19,6 @@ authors:
   - Petteri Nurmi
   - Zheng Wang
 links:
+  Weblink: https://dl.acm.org/doi/10.1145/3264908
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/SleepGuard.pdf
 ---
