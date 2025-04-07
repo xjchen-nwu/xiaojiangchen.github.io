@@ -3,7 +3,7 @@ title:          "Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressur
 type:           hardware
 date:           2024-04-16 00:01:00 +0800
 selected:       true
-sort:           NSDI
+conference:     NSDI
 pub:            "NSDI’24 (CCF-A)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
