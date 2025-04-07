@@ -3,6 +3,7 @@ title:          "Fusang: Graph-inspired Robust and Accurate Object Recognition o
 date:           2023-06-18 00:01:00 +0800
 type:           software
 selected:       false
+conference:     MobiSys
 pub:            "MobiSys '23 (CCF-B)"
 pub_date:       "2023"
 abstract: >-
@@ -17,5 +18,6 @@ authors:
   - Xinhuai Wang
   - Dingyi Fang
 links:
+  Weblink: https://dl.acm.org/doi/abs/10.1145/3581791.3596849
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2023/Fusang.pdf
 ---
