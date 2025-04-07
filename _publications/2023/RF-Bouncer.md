@@ -3,6 +3,7 @@ title:          "RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wire
 date:           2023-06-19 00:01:00 +0800
 type:           software
 selected:       true
+conference:     NSDI
 pub:            "NSDI '23 (CCF-A)"
 pub_date:       "2023"
 abstract: >-
