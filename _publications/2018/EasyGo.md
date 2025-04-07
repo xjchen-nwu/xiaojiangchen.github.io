@@ -19,6 +19,6 @@ authors:
   - Guangquan Xu
   - Hao Chen
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S1389128618304857/pdfft?md5=1af6560150d5c08fb16bc41102246e0b&pid=1-s2.0-S1389128618304857-main.pdf
   Weblink: https://www.sciencedirect.com/science/article/pii/S1389128618304857
+  Paper: https://www.sciencedirect.com/science/article/pii/S1389128618304857/pdfft?md5=1af6560150d5c08fb16bc41102246e0b&pid=1-s2.0-S1389128618304857-main.pdf
 ---
