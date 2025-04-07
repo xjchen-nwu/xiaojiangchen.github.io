@@ -3,6 +3,7 @@ title:          "Yet Another Text Captcha Solver: A Generative Adversarial Netwo
 date:           2018-10-15 00:01:00 +0800
 type:           software
 selected:       false
+conference:     CCS
 pub:            "CCS’18"
 pub_date:       "2018"
 abstract: >-
@@ -18,6 +19,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Zheng Wang
 links:
-  Paper: https://eprints.whiterose.ac.uk/151526/1/ccs18.pdf
   Weblink: https://doi.org/10.1145/3243734.3243754
+  Paper: https://eprints.whiterose.ac.uk/151526/1/ccs18.pdf
 ---
