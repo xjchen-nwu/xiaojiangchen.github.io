@@ -3,6 +3,7 @@ title:          "PLoRa: a passive long-range data network from ambient LoRa tran
 date:           2018-08-07 00:01:00 +0800
 type:           software
 selected:       false
+conference:     Sigcomm
 pub:            "Sigcomm’18  (CCF-A)"
 pub_date:       "2018"
 abstract: >-
@@ -18,7 +19,7 @@ authors:
   - Dingyi Fang
   - Kyle Jamieson
 links:
-  Paper: https://dl.acm.org/doi/pdf/10.1145/3230543.3230567
   Weblink: https://dl.acm.org/doi/10.1145/3230543.3230567
+  Paper: https://dl.acm.org/doi/pdf/10.1145/3230543.3230567
   video: https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/plora/plora.html
 ---
