@@ -15,5 +15,5 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Tianzheng Xing
 links: 
-  Paper: https://github.com/xjchen-nwu/xiaojiangchen.github.io/blob/main/paper/2018/iGuard.pdf
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/iGuard.pdf
 ---
