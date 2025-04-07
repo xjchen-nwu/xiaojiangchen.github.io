@@ -18,5 +18,5 @@ authors:
   - Baoying Liu
   - Zhanyong Tang 
 links:
-  Weblink: https://dl.acm.org/doi/abs/10.1145/3309701
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2019/Low-Cost.pdf
 ---
