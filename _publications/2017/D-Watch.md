@@ -3,6 +3,7 @@ title:          "D-Watch: Embracing “bad” Multipaths for Device-Free Localiz
 date:           2017-10-15 00:01:00 +0800
 type:           software
 selected:       false
+article:        TMC
 pub:            "IEEE/ACM Transactions on Networking  (CCF-A)"
 pub_date:       "2017"
 abstract: >-
@@ -15,6 +16,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang 
 links:
-  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2017/D-watch.pdf
   Weblink: https://doi.org/10.1109/TNET.2017.2747583
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2017/D-watch.pdf
 ---
