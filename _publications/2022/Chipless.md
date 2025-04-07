@@ -17,6 +17,6 @@ authors:
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
 links:
-  Paper: https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a298/962400a298.pdf
   Weblink: https://ieeexplore.ieee.org/document/9825992
+  Paper: https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a298/962400a298.pdf
 ---
