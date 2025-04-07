@@ -16,5 +16,5 @@ authors:
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
 links:
-  Weblink: https://ieeexplore.ieee.org/document/8610187
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2019/FlipTracer.pdf
 ---
