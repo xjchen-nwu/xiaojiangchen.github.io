@@ -17,6 +17,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang
 links:
-  Paper: https://www.cs.cityu.edu.hk/~zhenjili/2018-SECON-cDeepArch.pdf
   Weblink: https://dl.acm.org/doi/10.1109/TNET.2019.2936939
+  Paper: https://www.cs.cityu.edu.hk/~zhenjili/2018-SECON-cDeepArch.pdf
 ---
