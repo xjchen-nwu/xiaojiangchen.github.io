@@ -17,5 +17,5 @@ authors:
   - Xinhuai Wang
   - Dingyi Fang
 links:
-  Weblink: https://dl.acm.org/doi/abs/10.1145/3581791.3596849
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2023/Fusang.pdf
 ---
