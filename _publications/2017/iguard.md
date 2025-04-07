@@ -16,5 +16,5 @@ authors:
   - Xin Meng
   - Tianzhang Xing
 links:
-  Weblink: https://doi.org/10.1109/INFOCOM.2017.8057021
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/iGuard.pdf
 ---
