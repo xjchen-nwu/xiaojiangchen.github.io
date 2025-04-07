@@ -3,6 +3,7 @@ title:          "RFlens: Metasurface-Enabled Beamforming for IoT Communication a
 date:           2021-10-25 00:01:00 +0800
 type:           hardware
 selected:       false
+sort:           MobiCom
 pub:            "MobiCom’21  (CCF-A)"
 pub_date:       "2021"
 abstract: >-
@@ -18,5 +19,5 @@ authors:
   - Xinyu Zhang
   - <strong>Xiaojiang Chen</strong>
 links:
-  Weblink: https://dl.acm.org/doi/abs/10.1145/3447993.3483238
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2021/RFlens.pdf
 ---
