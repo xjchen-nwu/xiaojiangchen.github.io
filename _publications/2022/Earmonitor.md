@@ -3,7 +3,7 @@ title:          "Earmonitor: In-ear Motion-resilient Acoustic Sensing using Comm
 date:           2022-10-14 00:01:00 +0800
 type:           software
 selected:       false
-sort:           UbiComp
+conference:     UbiComp
 pub:            "UbiComp’22  (CCF-A)"
 pub_date:       "2022"
 abstract: >-
@@ -18,5 +18,6 @@ authors:
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
 links:
+  Weblink: https://dl.acm.org/doi/10.1145/3569472
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2022/Earmonitor.pdf
 ---
