@@ -17,5 +17,5 @@ authors:
   - Dingyi Fang
   - Chen Wang
 links:
-  Paper: https://github.com/xjchen-nwu/xiaojiangchen.github.io/blob/main/paper/2018/Human-Effort.pdf
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2018/Human-Effort.pdf
 ---
