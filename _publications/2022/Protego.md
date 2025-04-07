@@ -3,6 +3,7 @@ title:          "Protego: Securing Wireless Communication via Programmable Metas
 date:           2022-10-14 00:01:00 +0800
 type:           software
 selected:       false
+sort:           MobiCom
 pub:            "MobiCom’22  (CCF-A)"
 pub_date:       "2022"
 abstract: >-
@@ -18,5 +19,5 @@ authors:
   - Xinyu Zhang
   - <strong>Xiaojiang Chen</strong>
 links:
-  Weblink: https://dl.acm.org/doi/abs/10.1145/3495243.3560547
+  Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2022/Protego.pdf
 ---
