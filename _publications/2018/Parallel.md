@@ -3,6 +3,7 @@ title:          "Parallel Backscatter in the Wild: When Burstiness and Randomnes
 date:           2018-10-15 00:01:00 +0800
 type:           software
 selected:       false
+conference:     MobiCom
 pub:            "MobiCom’18  (CCF-A)"
 pub_date:       "2018"
 abstract: >-
@@ -15,6 +16,6 @@ authors:
   - Xin Meng 
   - <strong>Xiaojiang Chen</strong>
 links:
-  Paper: https://dl.acm.org/doi/pdf/10.1145/3241539.3241544
   Weblink: https://dl.acm.org/doi/abs/10.1145/3241539.3241544
+  Paper: https://dl.acm.org/doi/pdf/10.1145/3241539.3241544
 ---
