@@ -3,6 +3,7 @@ title:          "Exploring commodity RFID for contactless sub-millimeter vibrati
 date:           2020-11-16 00:01:00 +0800
 type:           software
 selected:       false
+conference:     SenSys
 pub:            "SenSys’20  (CCF-B)"
 pub_date:       "2020"
 abstract: >-
@@ -14,6 +15,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang
 links:
-  Paper: https://eprints.whiterose.ac.uk/170933/6/ubicomp2021.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3384419.3430771
+  Paper: https://eprints.whiterose.ac.uk/170933/6/ubicomp2021.pdf
 ---
