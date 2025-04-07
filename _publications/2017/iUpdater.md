@@ -16,6 +16,6 @@ authors:
   - Junhao Hu
   - Dingyi Fang
 links:
-  Paper: https://cis.temple.edu/~yu/research/iUpdater-ICDCS17.pdf
   Weblink: https://ieeexplore.ieee.org/abstract/document/7980032
+  Paper: https://cis.temple.edu/~yu/research/iUpdater-ICDCS17.pdf
 ---
