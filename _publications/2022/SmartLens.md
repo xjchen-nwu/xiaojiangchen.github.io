@@ -3,6 +3,7 @@ title:          "SmartLens: Sensing Eye Activities Using Zero-power Contact Lens
 date:           2022-10-14 00:01:00 +0800
 type:           hardware
 selected:       false
+conference:     MobiCom
 pub:            "MobiCom’22  (CCF-A)"
 pub_date:       "2022"
 abstract: >-
@@ -19,5 +20,6 @@ authors:
   - Dingyi Fang
   - <strong>Xiaojiang Chen</strong>
 links:
+  Weblink: https://dl.acm.org/doi/10.1145/3495243.3560532
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2022/SmartLens.pdf
 ---
