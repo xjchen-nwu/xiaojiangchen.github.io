@@ -3,6 +3,7 @@ title:          "FitLoc: Fine-grained and Low-cost Device-free Localization for 
 date:           2017-10-15 00:01:00 +0800
 type:           software
 selected:       false
+article:        ToN
 pub:            "IEEE/ACM Transactions on Networking  (CCF-A)"
 pub_date:       "2017"
 abstract: >-
@@ -17,6 +18,6 @@ authors:
   - Tianzhang Xing
   - Zhanyong Tang
 links:
-  Paper: https://cis.temple.edu/~yu/research/FitLoc-infocom16.pdf
   Weblink: https://ieeexplore.ieee.org/abstract/document/7880657
+  Paper: https://cis.temple.edu/~yu/research/FitLoc-infocom16.pdf
 ---
