@@ -17,6 +17,6 @@ authors:
   - Ben Taylor
   - Zheng Wang
 links:
-  Paper: https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03A-5_Ye_paper.pdf
   Weblink: https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/cracking-android-pattern-lock-five-attempts/
+  Paper: https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03A-5_Ye_paper.pdf
 ---
