@@ -19,6 +19,6 @@ authors:
   - Guannan Chen
   - Fuping Wu
 links:
-  Paper: https://taogu.site/pub/paper/22-ipsn-PRComm.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3412382.3458264
+  Paper: https://taogu.site/pub/paper/22-ipsn-PRComm.pdf
 ---
