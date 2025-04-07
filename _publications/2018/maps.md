@@ -15,6 +15,6 @@ authors:
   - <strong>Xiaojiang Chen</strong>
   - Dingyi Fang
 links:
-  Paper: https://www.ijcai.org/proceedings/2018/0501.pdf
   Weblink: https://dl.acm.org/doi/abs/10.5555/3304222.3304269
+  Paper: https://www.ijcai.org/proceedings/2018/0501.pdf
 ---
