@@ -17,6 +17,6 @@ authors:
   - Adam Aviv
   - Zheng Wang
 links:
-  Paper: https://eprints.whiterose.ac.uk/151216/1/tops%2018%20AAM.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3230740
+  Paper: https://eprints.whiterose.ac.uk/151216/1/tops%2018%20AAM.pdf
 ---
