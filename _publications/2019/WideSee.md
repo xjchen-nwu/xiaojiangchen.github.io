@@ -3,6 +3,7 @@ title:          "WideSee: Towards Wide-Area Contactless Wireless Sensing"
 date:           2020-11-16 00:01:00 +0800
 type:           software
 selected:       false
+conference:     SenSys
 pub:            "SenSys’19  (CCF-B) (Best Paper Award Candidates)"
 pub_date:       "2020"
 abstract: >-
@@ -19,7 +20,7 @@ authors:
   - Zhanyong Tang
   - Zheng Wang 
 links:
-  Paper: https://zwang4.github.io/publications/sensys19.pdf
   Weblink: https://dl.acm.org/doi/abs/10.1145/3356250.3360031
+  Paper: https://zwang4.github.io/publications/sensys19.pdf
   video: https://xjchen-nwu.github.io/xiaojiangchen.github.io/video/widesee/widesee.html
 ---
