@@ -3,7 +3,7 @@ title:          "RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Acti
 date:           2023-03-28 00:01:00 +0800
 selected:       false
 type:           software
-sort:           UbiComp
+conference:     UbiComp
 pub:            "UbiComp’23 (CCF-A)"
 #pub_date:       "2023"
 abstract: >-
@@ -17,5 +17,6 @@ authors:
   - Dingyi Fang
   - Xiaojiang Chen
 links:
+  Weblink: https://dl.acm.org/doi/abs/10.1145/3580859
   Paper: https://raw.githubusercontent.com/xjchen-nwu/xiaojiangchen.github.io/main/paper/2023/RF-CM.pdf
 ---
