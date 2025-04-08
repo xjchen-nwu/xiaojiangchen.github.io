@@ -1,7 +1,7 @@
 ---
 title:          "Smogy-Link: Fingerprinting Interference for Predictable Wireless Concurrency"
 date:           2016-12-15 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "ICNP’16  (CCF-B)"
 pub_date:       "2016"
