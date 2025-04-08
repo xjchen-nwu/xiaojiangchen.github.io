@@ -2,7 +2,7 @@
 title:          "RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition"
 date:           2023-03-28 00:01:00 +0800
 selected:       false
-type:           software
+type:           Algorithm
 conference:     UbiComp
 pub:            "UbiComp’23 (CCF-A)"
 #pub_date:       "2023"
