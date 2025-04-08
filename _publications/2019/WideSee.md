@@ -1,7 +1,7 @@
 ---
 title:          "WideSee: Towards Wide-Area Contactless Wireless Sensing"
 date:           2020-11-16 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     SenSys
 pub:            "SenSys’19  (CCF-B) (Best Paper Award Candidates)"
