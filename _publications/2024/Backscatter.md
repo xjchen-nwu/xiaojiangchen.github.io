@@ -2,7 +2,7 @@
 title:          "Pushing the Throughput Limit of OFDM-based Wi-Fi Backscatter Communication"
 date:           2024-11-28 00:01:00 +0800
 selected:       false
-type:           software
+type:           Algorithm
 conference:     Mobicom
 pub:            "Mobicom’24 (CCF-A)"
 #pub_date:       "20234"
