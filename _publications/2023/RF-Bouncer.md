@@ -2,7 +2,7 @@
 title:          "RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks"
 date:           2023-06-19 00:01:00 +0800
 type:           System
-selected:       true
+selected:       false
 conference:     NSDI
 pub:            "NSDI '23 (CCF-A)"
 pub_date:       "2023"
