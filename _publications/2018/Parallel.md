@@ -1,7 +1,7 @@
 ---
 title:          "Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You"
 date:           2018-10-15 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     MobiCom
 pub:            "MobiCom’18  (CCF-A)"
