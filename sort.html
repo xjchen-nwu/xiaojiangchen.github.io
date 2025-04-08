@@ -6,8 +6,8 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-{% assign pubs_by_type = site.publications | group_by: "type" %}
-{% assign sorted_pubs_by_type = pubs_by_type | sort: "date" %} <!-- 这里按照名称排序 -->
+{% assign pubs_by_type = site.publications | group_by: "type" | reverse %}
+{% assign sorted_pubs_by_type = pubs_by_type | sort: "date"  %} <!-- 这里按照名称排序 -->
 
 <div class="row">
     <div class="col-12 col-lg-10">
