@@ -1,7 +1,7 @@
 ---
 title:          "Enabling robust and reliable transmission in Internet of Things with multiple gateways"
 date:           2018-12-09 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "Computer Networks (CCF-B)"
 pub_date:       "2018"
