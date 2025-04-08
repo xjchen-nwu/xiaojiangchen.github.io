@@ -1,7 +1,7 @@
 ---
 title:          "Hydra: Attacking OFDM-base Communication System via Metasurfaces Generated Frequency Harmonics"
 date:           2024-11-28 00:01:00 +0800
-selected:       false
+selected:       true
 type:           Algorithm
 conference:     Mobicom
 pub:            "Mobicom’24 (CCF-A)"
