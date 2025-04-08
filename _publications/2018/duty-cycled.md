@@ -1,7 +1,7 @@
 ---
 title:          " Maximizing throughput for low duty-cycled sensor networks"
 date:           2018-01-25 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 article:        TMC
 pub:            "IEEE Transactions on Mobile Computing (CCF-A)"
