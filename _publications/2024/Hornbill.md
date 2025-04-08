@@ -2,7 +2,7 @@
 title:          "Hornbill: A Portable, Touchless, and Battery-Free Electrochemical Bio-tag for Multi-pesticide Detection"
 date:           2024-11-28 00:01:00 +0800
 selected:       false
-type:           hardware
+type:           System
 conference:     Mobicom
 pub:            "Mobicom’24 (CCF-A)"
 #pub_date:       "20234"
