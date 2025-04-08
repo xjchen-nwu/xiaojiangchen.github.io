@@ -1,7 +1,7 @@
 ---
 title:          "DualSync: Taming clock skew variation for synchronization in low-power wireless networks"
 date:           2016-07-28 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "Infocom’16"
 pub_date:       "2016"
