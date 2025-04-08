@@ -1,7 +1,7 @@
 ---
 title:          "Akte-Liquid: Acoustic-Based Liquid Identification with Smartphones"
 date:           2023-02-21 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "ACM Transactions on Sensor Networks  (CCF-B)"
 pub_date:       "2023"
