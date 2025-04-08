@@ -4,7 +4,7 @@ navbar_name: "IoT"
 
 positions:
 - logo: /assets/images/badges/northwest.png  # Logo is optional
-  name: northwest University
+  name: Northwest University
 - name: Xi'an, China
 
 
@@ -33,7 +33,7 @@ portrait_url: /assets/images/photos/Chen.png
  
 
 experience:
-- name: northwest University
+- name: Northwest University
   logo: /assets/images/badges/northwest.png
   position: Vice Dean in the School of Information Science and Technology
   #date: Sep. 2017 - Jul. 2021
