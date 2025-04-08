@@ -1,7 +1,7 @@
 ---
 title:          "Towards Large-Scale RFID Positioning: A Low-cost, High-precision Solution Based on Compressive Sensing"
 date:           2018-08-23 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "PerCom’18  (CCF-B)"
 pub_date:       "2018"
