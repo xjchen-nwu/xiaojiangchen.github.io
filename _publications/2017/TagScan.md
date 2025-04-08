@@ -1,7 +1,7 @@
 ---
 title:          "TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices"
 date:           2017-10-15 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     MobiCom
 pub:            "MobiCom’17  (CCF-A)"
