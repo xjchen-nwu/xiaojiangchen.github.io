@@ -1,7 +1,7 @@
 ---
 title:          "Pushing the Physical Limits of IoT Devices with Programmable Metasurface"
 date:           2021-10-14 00:01:00 +0800
-type:           hardware
+type:           System
 selected:       false
 conference:     NSDI
 pub:            "NSDI’21  (CCF-A)"
