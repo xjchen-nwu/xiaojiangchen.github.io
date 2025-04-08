@@ -1,6 +1,6 @@
 ---
 title:          "Cyclops: A Nanomaterial-based, Baterry-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens"
-type:           hardware
+type:           System
 date:           2024-04-16 00:01:00 +0800
 selected:       true
 conference:     NSDI
