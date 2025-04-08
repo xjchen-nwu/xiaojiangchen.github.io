@@ -1,7 +1,7 @@
 ---
 title:          "Tagtag: Material Sensing with Commodity RFID"
 date:           2019-11-09 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       true
 conference:     SenSys
 pub:            "SenSys’19  (CCF-B)"
