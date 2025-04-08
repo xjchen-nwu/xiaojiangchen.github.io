@@ -1,7 +1,7 @@
 ---
 title:          "FlipTracer: Practical Parallel Decoding for Backscatter Communication"
 date:           2017-10-15 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     MobiCom 
 pub:            "MobiCom’17  (CCF-A)"
