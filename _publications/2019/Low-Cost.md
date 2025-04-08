@@ -1,7 +1,7 @@
 ---
 title:          "Low-Cost and Robust Geographic Opportunistic Routing in a Strip Topology Wireless Network"
 date:           2019-03-25 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "ACM Transactions on Sensor Networks  (CCF-B)"
 pub_date:       "2019"
