@@ -1,7 +1,7 @@
 ---
 title:          "Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices"
 date:           2023-06-18 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     MobiSys
 pub:            "MobiSys '23 (CCF-B)"
