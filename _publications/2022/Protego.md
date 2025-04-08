@@ -1,7 +1,7 @@
 ---
 title:          "Protego: Securing Wireless Communication via Programmable Metasurface"
 date:           2022-10-14 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     MobiCom
 pub:            "MobiCom’22  (CCF-A)"
