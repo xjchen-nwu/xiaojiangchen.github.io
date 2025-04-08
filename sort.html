@@ -7,7 +7,7 @@ body_attr: >-
 ---
 
 {% assign pubs_by_type = site.publications | group_by: "type" %}
-{% assign sorted_pubs_by_type = pubs_by_type | sort: "name" | reverse %} <!-- 这里按照名称排序 -->
+{% assign sorted_pubs_by_type = pubs_by_type | sort: "date" | reverse %} <!-- 这里按照名称排序 -->
 
 <div class="row">
     <div class="col-12 col-lg-10">
