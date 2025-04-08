@@ -1,7 +1,7 @@
 ---
 title:          "Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach"
 date:           2018-04-16 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "IJCAI’18"
 pub_date:       "2018"
