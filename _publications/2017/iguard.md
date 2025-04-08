@@ -1,7 +1,7 @@
 ---
 title:          "iGuard: A Real-Time Anti-Theft System for Smartphones"
 date:           2017-10-15 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 pub:            "INFOCOM’17 "
 pub_date:       "2017"
