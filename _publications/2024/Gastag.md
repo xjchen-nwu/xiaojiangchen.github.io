@@ -2,7 +2,7 @@
 title:          "Gastag: A Gas Sensing Paradigm using Graphene-based Tags"
 date:           2024-11-28 00:01:00 +0800
 selected:       false
-type:           hardware
+type:           System
 conference:     Mobicom
 pub:            "Mobicom’24 (CCF-A)"
 #pub_date:       "20234"
