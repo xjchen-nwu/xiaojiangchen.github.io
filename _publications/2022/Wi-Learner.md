@@ -1,7 +1,7 @@
 ---
 title:          "Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition"
 date:           2022-10-14 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     UbiComp
 pub:            "UbiComp’22   (CCF-A)"
