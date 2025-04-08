@@ -1,7 +1,7 @@
 ---
 title:          "Beyond Respiration: Contactless Sleep Sound Activity Recognition Using RF Signals"
 date:           2019-09-09 00:01:00 +0800
-type:           software
+type:           Algorithm
 selected:       false
 conference:     UbiComp
 pub:            "UbiComp’19  (CCF-A)"
